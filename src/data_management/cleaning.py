@@ -18,8 +18,13 @@ class ModelNames(Enum):
     GERMAN = "T-Systems-onsite/cross-en-de-roberta-sentence-transformer"
     MULTILINGUAL = "sentence-transformers/paraphrase-multilingual-mpnet-base-v2"
 
-def encode(sentences:"pd.Series[str]", language:ModelNames)->"pd.Series[list[float]]":
-    model = SentenceTransformer(language.value)
+def encode(sentences:"pd.Series[str]", language:str)->"pd.Series[list[float]]":
+    map_lang_to_name = {
+        "polish": ModelNames.POLISH.value,
+        "german": ModelNames.GERMAN.value,
+        "multi": ModelNames.MULTILINGUAL.value
+    }
+    model = SentenceTransformer(map_lang_to_name[language])
     embeddings = model.encode(sentences)
     return pd.Series(embeddings.tolist())
 
@@ -39,13 +44,19 @@ def remove_stopwords(sentences:"pd.Series[str]", language:str)->"pd.Series[str]"
         return ' '.join(filtered_tokens)
     return sentences.apply(_remove_stopwords)
 
+def filter_weird_characters(sentences:"pd.Series[str]")->"pd.Series[str]":
+    pattern = r'[^a-zA-Z0-9.,\sąćęłńóśźżĄĆĘŁŃÓŚŹŻ]'
+    return sentences.str.replace(pattern, '', regex=True)
+
+
 def main():
     # nltk.download('stopwords')
     # nltk.download('punkt')
     lang = "polish"
     df = load_dataset(lang)
-    df["comment"] = remove_stopwords(df["comment"], "polish")
-    df["encoded"] = encode(df["comment"], ModelNames.POLISH)
+    df["comment"] = filter_weird_characters(df["comment"])
+    df["comment"] = remove_stopwords(df["comment"], lang)
+    df["encoded"] = encode(df["comment"], lang)
     df.to_csv(join(DATA_DIR, f"{lang}_encoded.csv"))
 
 if __name__ == "__main__":

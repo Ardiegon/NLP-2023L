@@ -1,151 +1,1001 @@
 ,comment,label
-0,"Ten produkt nie ma już starego zapachu dwn. To naprawdę nie działa już dobrze. Szkoda, że zapach został zmieniony. Proszę, spraw, aby stary zapach znów był katastrofalny, linia proszku.",False
-1,"Kupuj tylko ten produkt, ponieważ ma najlepszy zapach i efekt mycia",False
-2,"Wypróbowany po raz pierwszy i entuzjastyczny, w porównaniu do innych ciężkich detergentów raczej drogie, poza tym wysoce zalecane",False
-3,"Wytrzymały detergent Ariel należy do każdego dobrego gospodarstwa domowego. Usuwa wszelkie plamy, a nawet ładnie pachnie. Nie ma na co narzekać.",False
-4,"Myślę, że zapach jest bardzo popularny, mogę tylko nadal tęsknić za wielkim",False
-5,"Próbowałem już wielu różnych detergentów, ale wracaj do Ariel. Dla mnie najlepszy detergent.",False
-6,"Najlepszy detergent, który uwielbiam. Mogę tylko polecić",False
-7,"Ten proszek do prania to marzenie. Pachnie bardzo świeżo i przyjemnie od prania do długiego noszenia. Mam wiele komplementów, że moje pranie tak ładnie pachnie.",False
-8,Od miesiąca używam detergentu i pachnie niebiańsko i świeżo. Jestem zadowolony!,False
-9,STARY ARIEL BYŁ DOBRY I DOBRY TERAZ STAJE PRAWĘ TYLKO WCIĄŻ MUFFIG !!,False
-10,"Po prostu śmierdzi i jest gorszy niż tani detergent. Niestety, nieprawdopodobnie ustąpiło. Szkoda.",False
-11,"Myje super czyste, bez pozostałości na praniu nawet przy niewielkiej liczbie stopni. Dobrze pachnie. Bardzo wymienne",False
-12,"Nowa Ariel jest naprawdę naruszeniem praw człowieka. Produkt, że całe mieszkanie jest mgliste od smrodu z powodu opakowania. Teraz po latach lojalności musi szukać nowego dostawcy.",False
-13,"Przez 25 lat używaj Ariel. Teraz zauważyłem, że opakowanie jest nowe i pachnie naprawdę strasznie intensywnie, a przede wszystkim inaczej! Miej sporo dziewczyn, które używają Ariel, ponieważ pachniało tak dobrze. Proszę, przywróć nam stary zapach!!!",False
-14,"Produkt nie mówi już, czy jest to kompaktowy detergent. Kupiłem pudełko, które teraz mówi, że nie nadaje się do prania wstępnego. Czy muszę do tego użyć czegoś innego?",False
-15,Kupiony wczoraj i jest to super dobry proszek do prania,False
-16,"Jestem całkowicie zadowolony. Super detergent. Myje również mocno zabrudzone torby i ma świeży, tolen zapach",False
-17,Moc rozwiązywania plam mogłaby być trochę lepsza. Zapach nie jest tak intensywny,False
-18,Przetestuj to przez 2 tygodnie. Zapach mega i wyczyść pranie. Wysoce zalecane,False
-19,"ARIEL myje naprawdę czysto... A delikatny zapach Febreze jest nadal wyczuwalny nawet podczas prania, gdy jest suchy. Zawsze umieram w aplikacji dozowania, a ARIEL jest idealny np. do pościeli i obrusów, zwłaszcza do białego prania, które piję tylko z ARIEL.",False
-20,"Zapach przyjemny, sprawia, że super czysty używam tylko tego",False
-21,Świetna wydajność prania i zawartość kolorów. Kupię więcej.,False
-22,"Kupiony przez długi czas w dużym opakowaniu, ale nigdy nie żałowałem, używam go do pościeli moje pończochy uciskowe, gdziekolwiek nie powinieneś używać płynu, nie żałowałem tego.",False
-23,"Niestety ten produkt jest tylko rozczarowujący. Nie można go porównać z Ariel Color Compact. Zapach jest okropny z mojego punktu widzenia, a wydajność prania jest gorsza w porównaniu do kompaktowego. Proszę przynieść kompakt z powrotem!!!!",False
-24,"CO się stało? Niestety, nowy kolorowy proszek (20 prań) nie jest już kompaktowy, a zapach to katastrofa! Tak przenikliwy i natrętny! Nic więcej nie ma nic wspólnego ze starym Ariel Compact. Przełączy się na inną markę! Niestety!",False
-25,"Bardzo dobrze, świeże, miłe, polecam",False
+0,"Ten produkt nie ma już starego zapachu. To naprawdę nie jest już dobre. Szkoda, że zapach został zmieniony. Proszę ponownie zrobić stary zapach, proszek jest katastrofalny.",False
+1,"Kup tylko ten produkt, ponieważ ma najlepszy zapach i wynik prania",False
+2,"wypróbowany po raz 1 i zainspirowany, w porównaniu do innych ciężkich detergentów dość drogi, w przeciwnym razie wysoce zalecany",False
+3,"Detergent Ariel należy do każdego dobrego gospodarstwa domowego. Usuwa wszelkiego rodzaju plamy, a nawet ładnie pachnie. Nie ma na co narzekać.",False
+4,"Myślę, że ponieważ zapach jest bardzo przyjemny, mogę tylko polecić świetnie",False
+5,"Próbowałem wielu różnych detergentów, ale zawsze wracam do Ariel. Dla mnie najlepszy detergent.",False
+6,"Najlepszy detergent, uwielbiam to. Mogę tylko polecić",False
+7,"Ten proszek do prania to marzenie. Pachnie bardzo świeżo i przyjemnie od prania do długiego noszenia. Mam wiele komplementów, że moje pranie pachnie tak dobrze.",False
+8,Używam detergentu od miesiąca i pachnie niebiańsko i świeżo. Jestem zadowolony!,False
+9,"STARY ARIEL BYŁ DOBRY I W PORZĄDKU, TERAZ PRANIE PO PROSTU ŚMIERDZI STĘCHLIZNĄ !!",False
+10,"Po prostu śmierdzi i jest gorszy niż tani detergent. Niestety, raczej nie ustąpi. Jaka szkoda.",False
+11,"Pra super czysto, bez resztek na praniu nawet w niskich stopniach. Ładnie pachnie. Bardzo ekonomiczny",False
+12,"Nowy Ariel jest tak naprawdę pogwałceniem praw człowieka. Produkt, który zaparowuje całe mieszkanie smrodem przez opakowanie, znajduje się pod całą lochą.Musi teraz szukać nowego dostawcy po latach lojalności.",False
+13,"Używam Ariel od 25 lat. Teraz zauważyłam, że opakowanie jest nowe i pachnie naprawdę strasznie intensywnie i przede wszystkim inaczej! Mam sporo przyjaciół, którzy używają Ariel, ponieważ pachniało tak dobrze. Proszę, przywróć nam stary zapach!!!",False
+14,"Produkt nie określa już, czy jest to detergent kompaktowy. Kupiłem kartonowe pudełko, które teraz mówi, że nie nadaje się do prania wstępnego. Czy muszę użyć czegoś jeszcze, aby to zrobić?",False
+15,Kupiłem wczoraj i jest to super dobry proszek do prania,False
+16,Jestem w pełni zadowolony. Super detergent. Czyści nawet mocno zabrudzone worki i ma świeży zapach,False
+17,Moc rozpuszczania plam mogłaby być nieco lepsza. Zapach nie jest tak intensywny,False
+18,"Testuję go od 2 tygodni. Pachnie mega i sprawia, że pranie jest czyste. Gorąco polecam",False
+19,"ARIEL pierze naprawdę czysto... a delikatny zapach Febreze jest nadal wyczuwalny nawet podczas prania po wyschnięciu. Zawsze używam aplikacji dozującej i ARIEL jest idealny np. do pościeli i bielizny, zwłaszcza białego prania pierzę tylko z ARIEL.",False
+20,"Pachnie przyjemnie, sprawia, że super czyste Używam tylko",False
+21,Świetna wydajność prania i zachowanie koloru. Kupię więcej.,False
+22,"Kupuję go luzem od dłuższego czasu, ale nigdy nie żałowałem, używam go do pościeli moich pończoch uciskowych, wszędzie tam, gdzie nie powinieneś używać płynu, wcale tego nie żałowałem, nadal jestem zachwycony i nie będę go już oddawał.",False
+23,"Niestety, ten produkt jest po prostu rozczarowujący. Nie do porównania z Ariel Color Compact. Zapach jest okropny z mojego punktu widzenia, a wydajność prania jest gorsza w porównaniu do Compacta. Proszę przywrócić Compact!!!!",False
+24,"Co się stało? Nowy kolor pudru (20 prań) niestety nie jest już kompaktowy, a zapach jest katastrofą! Tak przenikliwy i nachalny! Nie ma już nic wspólnego ze starym Ariel Compact. Przejdzie na inną markę! Niestety!",False
+25,"Bardzo dobre, bogate, świeże, piękne, polecam Wam",False
 26,"Świetnie, ponieważ nie potrzebujesz wiele, aby usunąć plamy. I dobrze.",False
-27,"Użyj Ariel przez ponad 10 lat. Próbowałem już innych (tańszych) detergentów z wnioskiem, że Ariel jest naszym ulubionym. Bardzo dobrze pachnące czyste pranie, które nie powoduje swędzenia.",False
-28,"Zawsze lubię kupować, ponieważ jest to po prostu najlepszy detergent",False
-29,"Tak wielu innych już kupiło, ale to jest po prostu najlepsze!",False
-30,"Proszek jest po prostu świetny, moje pranie jest znacznie czystsze i ma wspaniały zapach. Często przełączam się między proszkiem Ariel a płynnym detergentem. Jestem zdecydowanie zadowolony.",False
-31,"To bardzo dobrze, więc jestem zadowolony i sprawia, że wszystkie ubrania są naprawdę czyste",False
-32,To był mój detergent od lat. Jestem z tego bardzo zadowolony i mogę go tylko polecić.,False
-33,"Zawsze byłem zadowolony z właściwości prania. Niestety, nawet w małych opakowaniach proszek ma „ nowy zapach ”, który jest o wiele za silny. Teraz niestety szukam innego produktu (",False
-34,"Przez 30 lat mój nr.1. Bardzo dobre usuwanie plam. Bardzo ważne dla dzieci, że po jedzeniu i zabawie ubrania znów będą czyste.",False
-35,Myje się czysto i pachnie super świeżo i bardzo długo,False
-36,"Trochę drogo, ale teraz oszczędzam zmiękczacz do tkanin.",False
-37,Pram tylko ubrania z Ariel. Wydajność prania jest najwyższa. A pranie pachnie czysto,False
-38,"Nadal jestem podekscytowany nawet po 50 latach! Mój mąż może tolerować tylko Ariel, po kilku próbach z innymi proszkami do prania zawsze wróciłem do Ariel! Po prostu najlepszy *****",False
-39,"Zawsze używaj tego, ładnie pachnie, a ubrania też są czyste",False
-40,Używaj go od dłuższego czasu i zawsze jestem z tego zadowolony. Nawet uparte plamy wychodzą bez żadnych problemów.,False
-41,"Lepiej niż ten produkt od Ariel, nie możesz tego zrobić lepiej, tylko top i klasa",False
-42,"Od kilku miesięcy używam ciężkiego detergentu w proszku Ariel i jestem bardzo zadowolony. Sprawia, że pranie jest super czyste i pachnie bardzo dobrze i przyjemnie!",False
-43,Bardzo zadowolony i od teraz tylko TO KUPUJE YU,False
-44,Nic innego nie było używane w naszym gospodarstwie domowym od 20 lat!,False
-45,Kupiony ponownie przez wiele lat z dobrego doświadczenia,False
-46,Masz bezpieczne pranie z Ariel i świeży zapach z tym.,False
-47,Raz po raz miałem na myśli jedną lub drugą markę. Teraz mam Ariel i jestem bardzo zadowolony,False
-48,"Podobnie jak moja matka, używam Ariel od lat i nadal jestem bardzo zadowolony",False
-49,Jestem bardzo entuzjastycznie nastawiony do wyniku prania! Znowu i znowu,False
-50,"Wszystko czyste wszystko na górze. Używaj tylko tego detergentu do prania i potrzebujesz go tylko do wszystkiego, co",False
-51,"Próbowałem już dużo detergentu, zawsze wracam do Ariel, ponieważ uzyskuję najlepsze wyniki prania z tym detergentem",False
-52,"Mój mąż przyniósł mi proszek do prania z zakupów i to był bardzo dobry pomysł od niego. Pranie staje się naprawdę czyste, nawet wysuszone plamy nie stanowią problemu, a pranie doskonale pachnie nawet bez zmiękczacza do tkanin.",False
-53,"Już 2 lata zawsze tego używałem, ponieważ zapachy trwają długo, a odzież jest miękka. Poleciłem też mamę i ona też to lubi",False
-54,Zrobiłem to przez przypadek. Produkt odkryty i przetestowany. Zapach jest świetny i utrzymuje się bardzo długo dzięki Febreze.,False
-55,"Bardzo dobra moc czyszczenia. Przyjemny, nie natrętny zapach. Bardzo produktywny.",False
-56,"Dorastałem z tym. Moja mama już zrobiła z nim pranie, a teraz jako mama robię to dokładnie tak. Super produkt.",False
-57,"Myłem się z Ariel wiele razy i jestem bardzo zadowolony. Wszystkie plamy wychodzą, a pranie pachnie bardzo dobrze",False
-58,"Najlepszy detergent, gdzie można znaleźć. Niesamowite. Moje pranie jest bardziej jększe niż wcześniej",False
-59,Używam Ariel od wielu lat i osiągam naprawdę doskonały efekt czyszczenia z Ariel. Szczególnie mocno zabrudzona biała pościel będzie idealna.,False
-60,"Sprzątacz jest nadal świetny i że w związku z Febreze, który jest już stałym gościem w naszym mieszkaniu, świetne połączenie",False
-61,Super detergent silne czyszczenie i przyjemny zapach,False
-62,"Ariel jest moim absolutnym faworytem, niezależnie od tego, czy płyn w proszku czy strąki już wszystko przetestowały. Zapach i czystość jest naprawdę świetna",False
-63,"Ponieważ mogę tolerować tylko Ariel, jestem zachwycony. Świeży przyjemny zapach.",False
-64,"Ponieważ raz go przetestowaliśmy, jesteśmy naprawdę beżowi i lubimy używać tych detergentów. Absolutna rekomendacja!",False
-65,"Wyciągnij stęchły zapach z pralki do ręczników dzięki zakładce do higieny calcon, zielonym opakowaniu i topie arien colorpuder!!!!",False
-66,Kupiłem miesiąc temu i jestem naprawdę zadowolony,False
-67,"Chcę polecić go moim znajomym, ponieważ najlepszy detergent! W naszej rodzinie teraz w czwartym pokoleniu",False
-68,Naprawdę chcę ten produkt i chcę go polecić moim znajomym.,False
-69,Tak jak j est.... Najlepszy detergent! W naszej rodzinie teraz w czwartym pokoleniu. Dozowane nawet oszczędnie... Najwyższy wynik z przyjemnym zapachem! LG Witha,False
-70,Bardzo dobrze myje ubrania i ma dobry zapach,False
-71,"Kupiłem ten detergent, ponieważ był w ofercie. Wcześniej miałem Dash, niektóre plamy nie wyszły, teraz wyprane z Ariel, koszula znów stała się czysta. Ariel ma wspaniały zapach.",False
-72,"Używam tego proszku do prania, jak ciężki detergent od Ariel od lat i jestem bardzo zadowolony!",False
+27,"Używam Ariel od ponad 10 lat. Próbowałem już innych (tańszych) detergentów z wnioskiem, że Ariel jest naszym ulubionym. Bardzo dobrze pachnące czyste pranie, które nie powoduje u nas swędzenia.",False
+28,"Zawsze lubię go kupować, ponieważ jest to po prostu najlepszy detergent",False
+29,"Tak wielu innych już kupiło, ale ten jest po prostu najlepszy!",False
+30,"Proszek jest po prostu świetny, moje pranie jest znacznie czystsze i pachnie świetnie. Często przełączam się między proszkiem Ariel a płynnym detergentem.Jestem zdecydowanie zadowolony.",False
+31,"To bardzo dobrze, wtedy jestem zadowolony i sprawia, że wszystkie ubrania są naprawdę czyste",False
+32,To był mój detergent od lat. Jestem z niego bardzo zadowolony i mogę go tylko polecić.,False
+33,"Zawsze byłem zadowolony z właściwości myjących. Niestety, nawet w małych opakowaniach proszek ma ""nowy zapach"", który jest zdecydowanie zbyt silny. Teraz niestety szukam innego produktu(",False
+34,"Od 30 lat mój nr 1 . Bardzo dobre usuwanie plam. Dla dzieci bardzo ważne jest, aby po jedzeniu i zabawie ubrania były ponownie czyste.",False
+35,Pra się czyści i pachnie super świeżo i bardzo długo,False
+36,"trochę drogie, ale oszczędzam teraz płyn do płukania tkanin.",False
+37,Ubrania pierzę tylko z Arielką. Wydajność prania jest najwyższa. A pranie pachnie czysto,False
+38,"Nawet po 50 latach wciąż jestem zachwycony! Mój mąż może tolerować tylko Ariel, po kilku próbach z innymi proszkami do prania zawsze wracałam do Ariel! Po prostu najlepszy *****",False
+39,"Zawsze używaj tego, pachnie dobrze, a ubrania są również czyste",False
+40,Używam go od dłuższego czasu i zawsze jestem z niego zadowolony. Nawet uporczywe plamy wychodzą bez żadnych problemów.,False
+41,"Nie możesz zrobić tego lepiej niż ten produkt od Ariel, po prostu najwyższej klasy",False
+42,"Używam detergentu w proszku Ariel od kilku miesięcy i jestem bardzo zadowolony. Sprawia, że pranie jest super czyste i pachnie bardzo dobrze i przyjemnie!",False
+43,bardzo zadowolony I od teraz tylko TO BĘDZIE KUPIONE YU,False
+44,Od 20 lat nic innego nie było używane w naszym domu!,False
+45,kupowane wielokrotnie przez wiele lat z dobrego doświadczenia,False
+46,Z pewnością będziesz miał pranie czyste z Ariel i świeży zapach z nim.,False
+47,Raz po raz miałem na myśli jedną lub drugą markę.Teraz mam Ariel i jestem bardzo zadowolony,False
+48,"Podobnie jak moja mama, używam Ariel od lat i nadal jestem bardzo zadowolony",False
+49,Jestem bardzo entuzjastycznie nastawiony do efektu prania! I tak w kółko,False
+50,"Wszystko czyste, wszystko jest super. Używamy tylko tego detergentu i potrzebujemy go tylko do wszystkiego ☆☆☆☆☆",False
+51,"Próbowałem wielu detergentów, zawsze używam Ariel, ponieważ uzyskuję najlepsze wyniki prania z tym detergentem",False
+52,"Mój mąż przyniósł mi proszek do prania z zakupów i to był bardzo dobry pomysł z jego strony. Pranie staje się naprawdę czyste, nawet zaschnięte plamy nie stanowią problemu i nawet bez płynu do płukania tkanin pranie pachnie świetnie.",False
+53,"Już 2 lata zawsze tego używałem, ponieważ zapachy utrzymują się długo, a ubrania są miękkie. Poleciłem też moją mamę i ona też to lubi",False
+54,Zrobiłem to przez przypadek. Produkt został odkryty i przetestowany. Zapach jest świetny i trwa bardzo długo dzięki Febreze.,False
+55,"Bardzo dobra moc czyszczenia. Przyjemny, nieinwazyjny zapach. Bardzo produktywny.",False
+56,"Dorastałem z tym. Moja mama już zrobiła pranie, a teraz ja jako mama robię to dokładnie w ten sam sposób. Niesamowity produkt.",False
+57,"Często myję się z Arielką i jestem bardzo zadowolona. Wszystkie plamy znikają, a pranie pachnie bardzo dobrze",False
+58,"Najlepszy detergent tam, gdzie jest.młotek geil.my pranie jest bielsze niż wcześniej",False
+59,Używam Ariel od wielu lat i osiągam naprawdę doskonały efekt czyszczenia z Ariel.,False
+60,"Sprzątaczka jest nadal świetna i to w związku z Febreze, który jest już stałym gościem w naszym mieszkaniu, świetne połączenie",False
+61,"Super detergent, mocne czyszczenie i przyjemny zapach",False
+62,"Ariel jest moim absolutnym faworytem, czy to w proszku, płynie czy w strąkach, wszystko już przetestowałem. Zapach i czystość są naprawdę świetne",False
+63,"Ponieważ mogę tolerować tylko Ariel, jestem zachwycony. Świeży, przyjemny zapach.",False
+64,"Ponieważ przetestowaliśmy go raz, jesteśmy naprawdę podekscytowani i bardzo lubimy używać tych detergentów. Absolutna rekomendacja!",False
+65,"Pozbądź się stęchłego zapachu z ręczników wokół pralki za pomocą wypustek higienicznych Calcon, zielonego opakowania i pudru Arien Color Top top!!!!",False
+66,Miesiąc temu kupiłem i jestem naprawdę zadowolony,False
+67,"Chciałbym polecić go moim znajomym, ponieważ najlepszy detergent! W naszej rodzinie już w 4 pokoleniu",False
+68,Bardzo chcę tego produktu i chcę go polecić moim znajomym.,False
+69,"Jest tym, czym jest.... najlepszy detergent! W naszej rodzinie już w 4 pokoleniu. Najlepszy wynik z przyjemnym zapachem! LG Witha",False
+70,Bardzo dobrze pierze ubrania i ma dobry zapach,False
+71,"Kupiłem ten detergent, ponieważ był w sprzedaży. Wcześniej miałem Dash, niektóre plamy nie wyszły z nich, teraz umyte Arielką, koszulka znów stała się czysta. Ariel ma wspaniały zapach.",False
+72,"Używam tego proszku do prania, podobnie jak wytrzymałego detergentu Ariel, od lat i jestem bardzo zadowolony!",False
 73,Używam tego detergentu od lat i zawsze mam jasne białe pranie.,False
-74,Używam od bardzo dawna. Dla mnie nie ma lepszego proszku do prania. Pranie jest ładne i czyste i pachnie bardzo dobrze. Mogę tylko polecić,False
-75,"Ten detergent jest moim absolutnym faworytem i jest od lat. Zawsze lubię go używać. Pranie jest ładne i czyste i ładnie pachnie, czego więcej można chcieć!",False
-76,"Nawet jeśli brzmi to jak „ sponsorowany przez ”, ale kiedy zakładam pranie prane w ARIEL, zapach jest wyjątkowo świetny.",False
-77,"Super detergent, umyj też moje zasłony",False
-78,"Świeże czyste pranie przyjemne, długotrwały świeży zapach dobry efekt prania",False
-79,"Świetny produkt, który czyści pranie w niskiej temperaturze, a następnie z przyjemnym zapachem. Mogę tylko polecić",False
-80,"Próbowałem już różnych detergentów, ale nie byłem tak entuzjastycznie nastawiony do żadnego z Ariel!!!",False
-81,"Czyści super, a pranie pachnie świetnie nawet bez zmiękczacza do tkanin.",False
-82,Nawet moja matka była o tym przekonana. Prawie odziedziczyła to po mnie i kocham to,False
+74,Używam go od bardzo dawna. Dla mnie nie ma lepszego proszku do prania. Pranie jest ładne i czyste i pachnie bardzo dobrze. Mogę tylko polecić,False
+75,"Ten detergent jest moim absolutnym faworytem i jest nim od lat. Lubię go używać wielokrotnie. Pranie jest ładne i czyste i pachnie dobrze, czego chcieć więcej!",False
+76,"nawet jeśli brzmi to jak ""sponsorowane przez"", ale kiedy zakładam pranie wyprane z ARIEL, zapach jest wyjątkowo świetny.",False
+77,"Super detergent, umyj nim również zasłony",False
+78,"świeże, czyste uczucie praniaprzyjemne, długotrwałe świeżość, pachnące, efekt prania",False
+79,"Świetny produkt, który czyści pranie w niskiej temperaturze, a następnie o przyjemnym zapachu. Mogę tylko polecić",False
+80,"Próbowałem kilku detergentów, ale z żadnego z nich nie byłem tak zadowolony, jak z Ariel!!!",False
+81,"Czyści się świetnie, a pranie pachnie świetnie nawet bez płynu do płukania tkanin.",False
+82,"Nawet moja matka była o tym przekonana. Przekazała mi to, że tak powiem, i uwielbiam to",False
 83,Zawsze byłem bardzo zadowolony z Ariel! Podoba mi się również wydajność prania w niskich temperaturach!,False
-84,"Zapach jest świetny, ale pozostaję galub Oceniam moje lekarstwo!",False
-85,Kupiłem go w zeszłym miesiącu i różnica była naprawdę zauważalna. Bardzo dobrze czyści plamy i pozostawia aksamitne ubrania. Pachnie dobrze. Bardzo mi się podoba i polecę go wszystkim moim znajomym,False
-86,Świetny detergent! Kupuję ponownie i ponownie. Jasne zalecenie,False
-87,Bardzo dobrze. Kup ponownie i ponownie.,False
-88,"Bogato przyjemny, nie tak ekstremalny jak inni! Czyści super! Żaden inny detergent nie wchodzi do mojego domu!",False
-89,"Z pewnością produkt nadal myje się tak dobrze, jak ma, ale jako klient powyżej 10 lat (zawsze proszek Ariel) jestem zniesmaczony nowym zapachem. Dlaczego zapach się zmienił? Nowy zapach jest okropny, będę teraz szukał resztek zapasów lub straciłeś mnie jako klienta",False
-90,"Używam go tylko dlatego, że rozwija bardzo dobry, dokładny i jednocześnie delikatny środek czyszczący!",False
-91,"Klasyczny detergent, którego moja babcia używa do prania. A to, czego używa babcia, może być świetne. Proszek do prania nie zawiódł mnie do tej pory i żaden inny nie wchodzi do domu.",False
-92,Z Febreze dodatkowy akcent naturalnej świeżości po praniu i czysta jasność bieli.,False
-93,"Jeden z najlepszych detergentów, wszystko jest czyste przy 30 ° i 40 °.",False
-94,Używam tego detergentu od lat i jestem bardzo zadowolony. Przyjemny zapach i super czyszczenie.,False
-95,"Z Ariel idzie dobrze! Nadal nie ma darmowego produktu i nie mogę tutaj zamówić masowych kubków. Jaka szkoda, ale nadal Super Ariel, dziękuję Clementine!",False
-96,"W przypadku Ariel białe pranie naprawdę zawsze staje się promiennie czyste. Nie szary welon, ale czysto białe pranie.",False
-97,"Kup Ariel przez długi czas i jestem bardzo zadowolony. Efekt prania, zapach i cena!",False
-98,Dorastając i zawsze mając przyjemne uczucie podczas wsuwania się do świeżo wypranej bielizny,False
-99,Dla mnie po prostu najlepszy detergent od lat!!,False
-100,"Myję z Ariel, ponieważ moja rodzina uwielbia zapach Ariel. Wynik prania przekonuje mnie i, moim zdaniem, jako detergent w proszku jest również bardziej zrównoważony niż płynne detergenty lub strąki.",False
-101,"Proszę, Ariel, stary zapach był o wiele przyjemniejszy, znowu zamierzałeś zrobić o wiele więcej sprzedaży, gdybyś znowu wziął stary zapach! Od czasu zmiany pachnie okropnie i już tego nie kupuję!",False
-102,Mój absolutny ulubiony detergent. Pranie staje się czyste i pachnie po prostu cudownie!,False
-103,Dobrze tolerowany! Pranie staje się czyste! Nie rób tego intensywnie!,False
-104,"Top zapach, znowu i znowu!",False
-105,Wreszcie plamy na śliniaczkach znów wychodzą! Naprawdę świetnie!,False
-106,"Detergent dobrze się myje, ale jest bardzo trudny do podania z opakowania, ponieważ w opakowaniu nie ma miarek, a czasami jest luźno sproszkowany, a następnie ponownie nierówny.",False
-107,"Używam tego detergentu od lat. Jest tak wspaniały, że nie muszę brać różnych odmian, ale mogę zastosować produkt.",False
+84,"Zapach jest świetny, ale zostaję galub I z moim ocenianym lekarstwem!",False
+85,Kupiłem go w zeszłym miesiącu i różnica była naprawdę zauważalna.  Bardzo dobrze czyści plamy i pozostawia aksamitne ubrania.  Ładnie pachnie.  Bardzo mi się podoba i polecę wszystkim moim znajomym,False
+86,Super detergent! Kupuję raz za razem. Jasne zalecenie,False
+87,Bardzo dobrze.kup raz za razem.,False
+88,"Sędziuj przyjemnie, nie tak ekstremalnie jak inni! Czyści świetnie! Nie mam żadnego innego detergentu w moim domu!",False
+89,"Oczywiście, produkt nadal pierze się tak samo dobrze jak wcześniej, ale jako klient powyżej 10 lat (zawsze proszek Ariel) jestem zniesmaczony nowym zapachem. Dlaczego zapach został zmieniony? Nowy zapach jest okropny, będę teraz szukał resztek lub straciłeś mnie jako klienta",False
+90,"Używam go tylko dlatego, że rozwija bardzo dobrą, dokładną i jednocześnie delikatną moc czyszczenia!",False
+91,"Klasyczny detergent, którego moja babcia używa do prania. A to, czego używa babcia, może być tylko wspaniałe. Proszek do prania do tej pory mnie nie zawiódł i żaden inny nie wchodzi do naszego domu.",False
+92,Z Febreze dodatkowy dotyk naturalnej świeżości po praniu i czysta jasność bieli.,False
+93,"Jeden z najlepszych detergentów, wszystko staje się czyste w 30 ° i 40 °.",False
+94,Używam tego detergentu od lat i jestem bardzo zadowolony. Przyjemny zapach i świetne czyszczenie.,False
+95,"Z Arielką idzie dobrze! Nadal nie jest to darmowy produkt, a tutaj też nie mogę zamówić miarki. Jaka szkoda, ale wciąż SuperAriel, dziękuję Clementine!",False
+96,"W przypadku Ariel białe pranie jest zawsze lśniąco czyste. Bez szarej mgiełki, ale czysto białe pranie.",False
+97,"Kupuję Ariel od dłuższego czasu i jestem bardzo zadowolony. Efekt prania, zapach i cena!",False
+98,"Dorastałem i zawsze miałem przyjemne uczucie, gdy wślizgiwałem się do świeżo wypranego prania",False
+99,Dla mnie po prostu najlepszy detergent od lat !!,False
+100,"Myję się z Ariel, ponieważ moja rodzina uwielbia zapach Ariel. Efekt prania przekonuje mnie i moim zdaniem jest również bardziej zrównoważony jako detergent w proszku niż płynny detergent lub kapsułki.",False
+101,"Proszę, Ariel, stary zapach był o wiele przyjemniejszy, zrobiłbyś o wiele więcej sprzedaży, gdybyś ponownie wziął stary zapach! Od czasu zmiany śmierdzi okropnie i już go nie kupuję!",False
+102,Mój absolutnie ulubiony detergent. Pranie staje się czyste i pachnie po prostu cudownie!,False
+103,Dobrze tolerowane! Pranie będzie czyste! Nie oceniaj intensywnie!,False
+104,"Najlepszy zapach, raz za razem!",False
+105,W końcu plamy na śliniakach znów gasną! Naprawdę świetnie!,False
+106,"Detergent dobrze się myje, ale jest bardzo trudny do dozowania z opakowania, ponieważ w opakowaniu nie ma miarki, a czasami jest luźny, puszysty, a następnie grudkowaty.",False
+107,"Używam tego detergentu od lat. Jest tak świetny, że nie muszę brać różnych odmian, ale mogę zastosować jeden produkt.",False
 108,Najlepsza decyzja za każdym razem,False
-109,"Używam Ariel Colorwaschmnittel przez długi czas, ale uważam, że nowy świeży zapach jest zbyt intensywny, prawie nie do zniesienia, dlaczego został zmieniony",False
-110,Używam tego proszku do prania przez długi czas i jestem bardzo zadowolony. Przyjemny zapach i myje wszystko w czystości.,False
-111,Większość części wymaga tylko krótkiego prania i wszystko jest czyste,False
-112,"Najlepszy proszek do prania, jakiego kiedykolwiek używałem, nie tylko jasne białe pranie, ale także czyste i czyste. Pranie pachnie jak tygodnie",False
-113,Bardzo dobrze na moich ubraniach i jakość jest najlepsza.,False
+109,"Używam Ariel Colorwaschmnittel od dłuższego czasu, ale uważam, że nowy świeży zapach jest zbyt intensywny, prawie nie do zniesienia, dlaczego go zmienili?",False
+110,Używam tego proszku do prania od dłuższego czasu i jestem bardzo zadowolony. Przyjemny zapach i zmywa wszystko do czysta.,False
+111,Większość części wymaga tylko krótkiego mycia i wszystko jest czyste,False
+112,"Najlepszy proszek do prania, jakiego kiedykolwiek używałem, nie tylko jasne białe pranie, ale także czyste i czyste. Pranie pachnie nawet po tygodniach",False
+113,Bardzo dobry na moich ubraniach i jakości mądry jest najlepszy.,False
 114,Kupiłem go i byłem bardzo zadowolony. Polecam wszystkim.,False
-115,Lata ulubione) Usuwa plamy dobrze pozostawia dobry zapach.,False
-116,Niestety plamy tłuszczu nie wychodzą w niskich temperaturach. W przeciwnym razie dobra wydajność czyszczenia i przyjemny i długotrwały zapach,False
-117,"Do tej pory używam tylko Ariel. Czyści wszystko w temperaturze 30 stopni po 30 minutach, a białe pranie pozostaje białe. Również zapach jest bardzo przyjemny i nie nachalny. Może tylko polecić.",False
-118,"Używam Ariel od lat, moja mama zawsze ją przyjmowała. Jestem bardzo zadowolony z wydajności czyszczenia, Ariel tworzy również najgorsze plamy.",False
-119,Ubrania są bogato czyste... Pachnące!,False
-120,"Uwielbiam ariel zapach świeżego prania i czystość i wydobywam z tego wszystko, co najlepsze. Naprawdę tak super",False
-121,"Marka Ariel to jedyna najlepsza marka, jaką mogę polecić, a także bardzo dobrze pachnie",False
-122,"Używam tylko ciężkiego detergentu Ariel i jestem podekscytowany, że pranie pachnie zupełnie świeżo, a plamy nie stanowią problemu, to po prostu super",False
-123,Jestem bardzo zadowolony. Poleciłbym Ariel moim przyjaciołom.,False
-124,Plamy nie są wypłukiwane. Wszystkie puste obietnice,False
-125,"Bardzo zadowolony, ponieważ większość miejsc moich dzieci wychodzi ponownie bez dodatkowych funduszy. I nie ma żadnych pozostałości z proszku.",False
-126,"Jesteśmy entuzjastycznie nastawieni do Ariel. Próbowałem już innych produktów, ale żaden inny produkt nie przybywa przeciwko Ariel. Myje bardzo czyste, pachnie bardzo dobrze, a kolory są zachowane. A proszek rozpuszcza się bez pozostałości.",False
-127,"Nadal jestem w pełni zadowolony z Ariel, używaj proszku, a także płynu z Ariel!",False
-128,"Zapomnij o wszystkim, nic nie przebije proszku Ariel; Niedawno zostałem nawet z przyjacielem, który powiedział, że spał najlepiej, ponieważ łóżko pachniało, jakby jego matka myła prześcieradła, które pachniało jak w domu.",False
-129,Super marka Ariel Uwielbiam myć się z Ariel,False
-130,"W zasadzie biorę tylko Ariel do mycia, ale w tej chwili tylko w postaci proszku. Teraz odkryłem to dla siebie, ponieważ dzięki „ krótkim twom ”można wiele osiągnąć!!!",False
-131,"Produkt, który ma nie tylko historię, ale także jakość",False
-132,"Ten proszek jest taki, że dobrze się myje i odświeża. Super super super)",False
-133,"Ogólnie rzecz biorąc, był bardzo entuzjastyczny, a stosunek ceny do wydajności również był dobrą rzeczą.",False
-134,Nawet w niskich temperaturach plamy z trawy i błota pośniegowego ustępują super. Zapach utrzymuje się przez długi czas i nie jest zbyt nachalny,False
-135,"Bardzo przyjemny od zapachu i czysty sprawia, że jest niezawodny. Nawet buty znów stają się jak nowe.",False
-136,"Zapach detergentu nie jest nachalny, ale świeży i przyjemny. Trwa wystarczająco długo w porównaniu do innych produktów. Plamy są niezawodnie usuwane. Szare skręty nie powstają z ciężkim detergentem. Jestem całkowicie zadowolony i kupić Ariel ponownie.",False
-137,Ładny zapach. Ubrania są miękkie i czyste. Zapach jest przez długi czas.,False
-138,"Nie ma nic lepszego jak proszek Ariel, po prostu to kocham! Nawet w niskich temperaturach plamy dzieci wychodzą, co nie jest dostępne z innymi detergentami.",False
-139,Dobrze pachnie i jest nie do pobicia w procesie czyszczenia mojej opinii,False
+115,"Długoletni faworyt )Dobrze usuwa plamy, pozostawia dobry zapach.",False
+116,"Niestety, plamy tłuszczu nie wychodzą w niskich temperaturach. W przeciwnym razie dobra wydajność czyszczenia oraz przyjemny i długotrwały zapach",False
+117,"Do tej pory używam tylko Ariel. Sprawia, że wszystko jest czyste w temperaturze 30 stopni przez 30 minut, a białe pranie pozostaje białe. Zapach jest również bardzo przyjemny i nie nachalny. Gorąco polecam.",False
+118,"Używam Ariel od lat, moja mama zawsze go brała. Jestem bardzo zadowolony z wydajności czyszczenia,Ariel tworzy nawet najgorsze plamy.",False
+119,Ubrania są bogato czyste... Zapach świeżości!,False
+120,"Uwielbiam to ariel, zapach świeżego prania i czystość i wyciągam z tego wszystkie dobre rzeczy. Naprawdę tak świetnie",False
+121,"Marka Ariel jest jedyną najlepszą marką, którą mogę polecić, a także pachnie bardzo dobrze",False
+122,"Używam tylko Ariel Detergent Liquid i jestem zachwycony, pranie pachnie całkowicie świeżo, a plamy nie stanowią problemu, jest po prostu świetny",False
+123,Jestem bardzo zadowolony. Polecam Ariel moim znajomym.,False
+124,Plamy nie są wypłukiwane.  Wszystkie puste obietnice,False
+125,"Bardzo zadowolony, ponieważ większość plam moich dzieci wychodzi ponownie bez dodatkowych funduszy. I nie ma też pozostałości z proszku.",False
+126,"Jesteśmy zachwyceni Arielką. Próbowałem innych produktów, ale żaden inny produkt nie może konkurować z Ariel.  Pra bardzo czysto, pachnie bardzo dobrze, a kolory są zachowane. A proszek rozpuszcza się, nie pozostawiając żadnych pozostałości.",False
+127,"Nadal jestem w pełni zadowolony z Ariel, używaj pudru, a także płynu od Ariel!",False
+128,"Zapomnij o wszystkim innym, nic nie przebije proszku Ariel; Ostatnio zatrzymał się nawet u mnie przyjaciel, który skomentował, że spał najlepiej, bo łóżko pachniało tak, jakby jego matka wyprała pościel, pachniało jak w domu.",False
+129,"Niesamowita marka Ariel, uwielbiam myć z Ariel",False
+130,"Używam Ariel tylko do prania, ale w tej chwili tylko w postaci proszku. Teraz odkryłem to dla siebie, ponieważ można wiele osiągnąć dzięki ""krótkiemu praniu""!!!",False
+131,"Produkt, który ma nie tylko historię, ale i jakość",False
+132,"Ten proszek jest taki, że dobrze się myje i odświeża. super super super super )",False
+133,"Ogólnie rzecz biorąc, było bardzo przyjemnie, a stosunek ceny do wydajności był impimp.",False
+134,Nawet w niskich temperaturach plamy z trawy i błota znikają świetnie. Zapach utrzymuje się długo i nie jest zbyt nachalny,False
+135,"Bardzo przyjemny zapach i czystość sprawiają, że jest niezawodny.  Nawet buty znów będą jak nowe.",False
+136,"Zapach detergentu nie jest nachalny, ale świeży i przyjemny. Trwa wystarczająco długo w porównaniu do innych produktów. Plamy są niezawodnie usuwane. Szara mgiełka nie występuje w przypadku detergentów o dużej wytrzymałości. Jestem w pełni zadowolony i kupuję Ariel raz za razem.",False
+137,Piękny zapach. Ubrania są miękkie i czyste. Zapach jest przez długi czas.,False
+138,"Nie ma nic lepszego niż proszek Ariel, po prostu go uwielbiam! Nawet w niskich temperaturach znikają plamy dla dzieci, których nie ma w przypadku innych detergentów.",False
+139,"Pachnie dobrze i, moim zdaniem, jest nie do pobicia w procesie czyszczenia",False
 140,Kupiłem to raz i jestem z tego bardzo zadowolony,False
-141,"Pranie jest w dużej mierze czyste. Detergent ma przyjemny zapach, który trwa. W rezultacie dodatkowe użycie perfum do prania staje się niepotrzebne.",False
-142,"W tym czasie musiałem zmienić inny proszek do prania na Ariel i początkowo byłem bardzo sceptyczny, ale po raz pierwszy byłem już zadowolony. Pranie będzie pachnieć dobrze nawet w niskich temperaturach, a człowiek nie musi czyścić w dużych ilościach",False
-143,Bardzo dobre usuwanie gruboziarnistego brudu i przyjemnej świeżości.,False
-144,"Arial rozpuszcza się szybko w zimnej wodzie, a wynik prania jest już doskonały przy 30 stopniach. A przyjemny zapach zawsze mnie przekonywał",False
-145,"Od lat jestem bardzo zadowolony z ciężkiego detergentu Ariel. Sprawia, że pranie jest czyste nawet w niskich temperaturach i świetnie pachnie. Zalecane!!!",False
-146,"Ariel jest jednym z niewielu detergentów, które nie są nadmiernie perfumowane, a proszek jest idealny do białego. Przyjmuję płyn Ariel Color do kolorowego prania, jestem bardzo zadowolony",False
-147,Dla mnie od lat d a s detergent. Kolory są super zachowane. Najlepsze wyniki i brak reakcji alergicznych jak zwykle z wieloma innymi detergentami.,False
-148,"Bardzo dobry produkt, usuwa nawet zaschnięte plamy krwi. Dobrze! Nigdy więcej płynnego detergentu! Nie chciałem w to uwierzyć, a kolory zostaną zachowane! Znikają tylko plamy",False
-149,Od wielu lat jestem fanem Ariel. Mogę tylko powiedzieć absolutną satysfakcję. Próbowałem też dużo. Ale Ariel jest nie do pobicia.,False
+141,"Pranie będzie w większości czyste. Detergent ma przyjemny zapach, który trwa. Eliminuje to potrzebę dodatkowego stosowania perfum do prania.",False
+142,"Musiałem więc wtedy przestawić się z innych proszków do prania na Ariel i na początku byłem bardzo sceptyczny, ale po pierwszym razem byłem już zadowolony. Pranie będzie pachniało czysto nawet w niskich temperaturach, dobrze i nie musisz sprzątać w dużych ilościach",False
+143,Bardzo dobre usuwanie grubych zabrudzeń i przyjemna świeżość.,False
+144,"Arial szybko rozpuszcza się w zimnej wodzie, a już przy 30 stopniach wynik prania jest doskonałyA przyjemny zapach zawsze mnie przekonywał",False
+145,"Od lat jestem bardzo zadowolony z detergentu Ariel. Sprawia, że pranie jest czyste nawet w niskich temperaturach i świetnie pachnie. Zalecane!!!",False
+146,"Ariel jest jednym z niewielu detergentów, które nie są nadmiernie perfumowane, a proszek jest idealny dla białych. Do kolorowego prania biorę płyn Ariel Color, jestem bardzo zadowolony",False
+147,"Dla mnie detergent od lat. Kolory są super zachowane. Najlepsze wyniki i brak reakcji alergicznych, jak w przypadku wielu innych detergentów.",False
+148,"Bardzo dobry produkt, usuwa nawet zaschnięte plamy krwi. To jest dobre!   Nigdy więcej płynnego detergentu! Nie chciałem w to uwierzyć i kolory są zachowane! Znikają tylko plamy",False
+149,"Jestem fanem Ariel od wielu lat. Wszystko, co mogę powiedzieć, to absolutna satysfakcja. Próbowałem też wielu rzeczy. Ale Ariel jest nie do pobicia.",False
+150,"Użyłem go ze względu na dobry zapach i bardzo dobrą wydajność prania. Niestety, nie uwzględniono żadnej pomocy w dozowaniu.",False
+151,Muszę spróbować: moi przyjaciele są zachwyceni,False
+152,Detergent od Ariel Raz za razem. Gorąco polecam,False
+153,Użyłem go ostatnio i jestem bardziej niż zadowolony ze wszystkich upartych. Plamy wyszły bez dodatkówMój pranie pozostaje jasnobiałePolecę go przyjaciołom i znajomym,False
+154,"Myślę, że jest świetny, ponieważ ładnie pachnie, a nawet usuwa większe plamy.",False
+155,"Jestem bardzo zadowolony z detergentu. Myślę, że wszystkie produkty Ariel są bardzo dobre i jestem w pełni zadowolony.",False
+156,"Używam wytrzymałego detergentu, jest ładny i świeży, a pranie staje się super białe. Myślę, że kupię też kolorowy detergent.",False
+157,"Jestem naprawdę bardzo zadowolony, z wyjątkiem usuwania plam ... Czasami szło dobrze, czasami nie. Evtl Ariel nie sięga po wszystkie tkaniny.",False
+158,Ariel Actilift wytrzymały detergent idealny i uparty do usuwania uporczywych plam. Nawet moja babcia myła się z Arielką.,False
+159,"Detergent ma wspaniały zapach, w sam raz dla mojej pościeli.",False
+160,Super szybkie usuwanie plam dzięki wieloletniemu doświadczeniu,False
+161,Jestem całkowicie zadowolony i entuzjastycznie nastawiony do produktu. Duże opakowanie trwa bardzo długo i optymalnie czyści pranie. Dotyczy wszystkich kategorii. Lg,False
+162,Po prostu kocham Ariel za białe ubrania. Używam go przez całe życie.,False
+163,Jest niezwykle produktywny i kojący w zapachu. Jestem nim zachwycony i mogę go tylko polecić. Lg,False
+164,"Po przejściu z innych detergentów zdałem sobie sprawę, czym jest dobre pranie.",False
+165,"Używam go od lat i uwielbiam go! Zrobiłem również mniejsze testy z innymi proszkami do prania, ale jak dotąd żaden nie zbliżył się do wydajności czyszczenia!!!",False
+166,"Dostarcza to, co obiecuje. Nawet w niskich temperaturach naprawdę świetny wynik, a kolory są bardzo dobrze zachowane",False
+167,"Od kilku lat używam detergentu w proszku Ariel. Wcześniej próbowałem wielu detergentów przez długi czas, ale z niektórymi lub wydajnością prania, z innymi znowu zapach, który nigdy nie był optymalny ... Dopóki nie znalazłem Ariel",False
+168,"Zapach bardzo dobry, miękkość prania bardzo dobra. Podsumowując, bardzo dobry produkt.",False
+169,"Zawsze jestem przekonany do detergentu Ariel. Najlepiej się czyści, ładnie pachnie, a pranie staje się przyjemne i miękkie. Kupuję go raz za razem.",False
+170,Bardzo dobryAriel jest najlepszy do czystej uprawy Najlepsze rośnie,False
+171,"Jestem bardzo zadowolony, bardzo bym go polecił.",False
+172,"Bardzo lubię go używać, pachnie bardzo przyjemnie po praniu!",False
+173,"Bardzo zadowolony, myję się nim od dłuższego czasu i jestem zachwycony. Pranie pachnie dobrze i jest zawsze dobrze wyczyszczone.",False
+174,Najlepszy produkt.bardzo świetny.Mam ariel od 10 lat.,False
+175,"W Ariel stosunek ceny do wydajności jest odpowiedni. Pranie będzie czyste i będzie miało przyjemny, nieinwazyjny zapach.",False
+176,"Ogólnie rzecz biorąc, świetny detergent. Z super dobrym zapachem. Wydajność czyszczenia mogłaby być nieco lepsza",False
+177,Używam Ariel od 4 lat i jestem bardzo zadowolony.,False
+178,Od lat detergent mojego wyboru.,False
+179,Doskonała kwasowość w niskiej temperaturzeusuwa plamy i zachowuje kolory...,False
+180,"Po prostu świetnie. Myję się nim od lat. Wyeliminowano nawet najgorszy smak, zawsze pozbywałem się wszelkich plam aż do teraz.",False
+181,"Jestem bardzo zadowolony, utrzymuje nasze pranie kupuje go regularnie,",False
+182,"Raz Ariel, zawsze Ariel. Próbowałem kilku detergentów, ale nic nie zbliża się do Ariel",False
+183,"Użyłam czegoś innego do prania ubrań, ale od kiedy używam Ariel, moje ubrania wyglądają znacznie lepiej.",False
+184,Używam Ariel na białych bluzkach mojej partnerki i jestem zachwycona. Nawet po miesiącach nie ma silnej szarej mgiełki... Bez zastrzeżeń polecam...,False
+185,"Ariel, to wszystko mówi, że to po prostu świetne, dziękuję",False
+186,"Tak więc zapach Ariel jest zły, dla mojego nosa jest to nieprzyjemny smród, który jest nie tylko wyczuwalny podczas suszenia prania w całym domu, ale także z suchej koszuli na ciele ten nieprzyjemny smród emanuje. Już nie kupuję !!",False
+187,Najlepszy używam ariel od 10 lat i jestem bardzo zadowolony,False
+188,"Wszystkie Pima, artykuły, dostawa i serwis",False
+189,"Świetny detergent, zachowuje kolor, czystość prania super i zapach wszystko jest świetne. Również stosunek jakości do ceny jest idealny. Dziękuję Arie.",False
+190,"Dobry, wypróbowany i przetestowany produkt, zawsze niezawodny i łatwy do czyszczenia",False
+191,"Uwielbiam Ariel, używam go od ponad 10 lat i bardzo go polecam.",False
+192,"Uwielbiam Ariel, używam go od ponad 10 lat i bardzo go polecam.",False
+193,"Używam Ariel od dłuższego czasu. Jestem bardzo zadowolony. Nadal jestem sceptycznie nastawiony do strąków. Byłoby coś do przetestowania, aby mieć porównanie",False
+194,"Myję się z Ariel od 40 lat, wychowałem z nim 3 dzieci i zawsze byłem zadowolony z rezultatu do tej pory. Teraz mam ze sobą moją małą wnuczkę i myję płynnym detergentem od Ariel i też jestem zadowolony.",False
+195,"Biorę to całkiem chętnie, pranie jest świeże i czyste, a kolor nie blaknie",False
+196,Ariel to świetna firma produkująca detergentyA pranie jest naprawdę czyste. Zapach z pranego prania jest również świetny. Proszek utrzymuje się przez długi czas bez twardnienia.,False
+197,"Wynik prania jest zawsze przekonujący. Nawet w niskich temperaturach iw programie ekspresowym pranie będzie czyste, pachnie przyjemnie świeżo, a kolory będą świecić.",False
+198,"Wynik prania jest zawsze przekonujący. Nawet w niskich temperaturach iw programie ekspresowym pranie będzie czyste, pachnie przyjemnie świeżo, a kolory będą świecić.",False
+199,"Wynik prania jest zawsze przekonujący. Nawet w niskich temperaturach iw programie ekspresowym pranie będzie czyste, pachnie przyjemnie świeżo, a kolory będą świecić.",False
+200,"Jestem użytkownikiem proszku do prania Ariel od lat i jestem bardzo zadowolony. Uważam, że forma proszku zmywa czystszy niż płynny detergent. Ważne dla mnie jest to, że moje pranie jest czyste i pachnie świeżo",False
+201,Jestem dobry! I tak w kółko! Oczywiście świetny produkt,False
+202,"Super detergenty dla bliźniaków są często prane, pranie wychodzi jak nowe.",False
+203,"Bardzo dobrze, używam go od 3 lat i nie mogę się bez niego obejść",False
+204,"Myślę, że detergent w proszku Ariel jest bardzo dobry. Niestety, nie usuwa tylko uporczywych plam w niskich temperaturach, a przy białych ubraniach zawsze używam wytrzymałego detergentu, ponieważ tam wydobywa się szara mgiełka.",False
+205,"Naprawdę dobry produkt, produkt sprawia, że pranie jest naprawdę dobre, czyste, dobre urozmaicenia,",False
+206,"Efekt mycia, jak zawsze, doskonały, wspaniały zapach",False
+207,Chciałbym kupić i polecić to innym,False
+208,"Doskonały detergent usuwa wszystkie plamy z odzieży dziecięcej (błoto 60 °, plamy z murawy piłkarskiej ...) Mogę tylko polecić! Matka 3 dzikich chłopców",False
+209,Super wydajność prania nawet przy 30 stopniach. Przyjemny zapach. Mogę tylko polecić Ariel Color.,False
+210,"Nie ma nic lepszego, gdy masz dzieci i psy. Po prostu wyczyść wszystko. Mogę tylko polecić",False
+211,"pierze czysto, plamy wychodzą, pachną przyjemnie świeżo, ale nie nachalnie",False
+212,"Znacznie lepiej niż płynny detergent, nawet jeśli płyn pachnie lepiej.",False
+213,"Bardzo czysty, jest po prostu idealnyKażdy powinien spróbować",False
+214,"Po prostu fantastyczny środek czyszczący. Sprawia, że wszystko jest czyste, a kolor pozostaje.",False
+215,"Myję się z Arielką od lat i jestem bardzo zadowolona, moja babcia również myła się z Ariel",False
+216,"Bardzo dobre czyszczenie.wszystkie kolory nadal zachowane, nie widać żadnych pozostałości.",False
+217,"To najlepszy detergent, zawsze go używałem. Nawet bez wysiłku usuwa plamy z trawy. Przyjemny, lekki, świeży zapach jest również po prostu nie do pobicia.",False
+218,"Ariel usuwa również plamy ze szpinaku świetnie !!! Świetny produkt nadaje się również do ubrań babay, a kolory nie gubią się",False
+219,"Jestem bardzo zadowolony z produktu, pranie było bardzo dobre, czyste i świeże",False
+220,"To ma wszystko, czego potrzebujesz do prania jest doskonałe i kupuję to od bardzo dawna, a pranie staje się czyste zapachy U",False
+221,"Przetestowałem ten produkt w butelce i od tego czasu jestem lojalnym użytkownikiem. To jest po prostu niesamowite, wszystko czyste, bez względu na temperaturę. To było prawie 2 lata temu i nadal jestem podekscytowany.",False
+222,Jestem bardziej niż zachwycony Ariel Pods. Czystość i usuwanie plam są nieporównywalne.  Zapach powinien być nieco bardziej intensywny. W każdym razie czuję się bardzo komfortowo w kawałkach umytych Ariel Pods.,False
+223,"Myślę, że jest bardzo dobrze, we wszystkich pralka pozostaje czysta, a ja mam kemping i tam zawsze potrzebujesz czystego prania, a markę znam z dzieciństwa",False
+224,"Kupiłem proszek do prania Ariel, aby sprawdzić, czy robi to, co jest napisane na puszce, i mogę powiedzieć z entuzjazmem, tak, zdecydowanie tak! Pranie pachnie dobrze, plamy są na zewnątrz (ale nie ma starych plam)! Mogę tylko polecić",False
+225,"Absolutnie świeży zapach, który rozprzestrzenia się całkowicie na praniu i nadal pachnie w szafie. Efekt prania jest świetny! Wszystko czyste i czyste. Nawet w niskiej temperaturze i bardzo dobrej odzieży.W sumie po prostu idealnie!!!",False
+226,"Wszystko super. Myślę, że mógłby po prostu pachnieć trochę bardziej intensywnie.",False
+227,"pachnie przyjemnie świeżo, a kolory połyskują zawsze najlepiej ariel",False
+228,"Stem przekonał mnie, a zapach jest tak świeży.",False
+229,"Jeden stosunek jakości do ceny, świetny zapach, dobre prowadzenie",False
+230,"Ten puder Ariel nie tylko oczyszcza, ale doskonale zachowuje kolory. Ponadto nadal jest bardzo zadowolony. Mogę tylko powiedzieć, że w 100% wyciągnięte zalecane.",False
+231,W pełni zadowolony! Moje pranie jest bardzo czyste i ładnie pachnie!,False
+232,"Bardzo dobry detergent ! Nigdy więcej przedawkowania, a zapach jest przyjemny. Wydajność prania jest naprawdę zawsze bardzo dobra! Kupiłbym go, ale cena jest bardzo wysoka. Niestety!",False
+233,"Pranie pachnie bardzo świeżo, a zapach zostaje zachowany po wyschnięciu. Kolor prania pozostaje promienny.",False
+234,"Pranie pachnie bardzo dobrze. Bardzo ważne jest dla mnie, aby zachować czysty, świeży zapach prania. Usuwa plamy superBiałe pranie naprawdę błyszczy",False
+235,"Super detergent Jestem zachwycony jak zawsze. Moja babcia już używała Ariel, więc trzymałem się tego.",False
+236,Super świetny produkt! Zawsze jest teraz na mojej liście zakupów.,False
+237,"Bardzo dobre, pranie, czyste i świeże, polecam od razu",False
+238,Pranie pachnie świeżo bez płynu do płukania tkanin i lśni nowym blaskiem,False
+239,Od lat robię pranie z Ariel i jestem o tym przekonana. Prawie nic innego nie wchodzi do mojej maszyny.,False
+240,"Jeden z niewielu detergentów, który niezawodnie usuwa wszystkie plamy z prania.",False
+241,"Pranie jest super czyste, ręczniki pachnące.",False
+242,Jestem totalnym Ariel. Nigdy nie wziąłbym żadnego innego lekarstwa. Jest i pozostaje po prostu najlepszy.,False
+243,"Bez Ariel nie działa, Bardzo dobry detergent w niskich temperaturach pranie będzie czyste",False
+244,pranie nie jest tak przyczepne jest moim zdaniem,False
+245,Pomaga świetnie i utrzymuje świeżość przez długi czas. Pozwolono by mi to przetestować na próbce od mojej matki i jestem o tym przekonany.,False
+246,"Bardzo lubię ten zapach. Niestety, nie próbowałem, ponieważ bardzo lubię PODS w tej chwili. Ale widzę z pralni mojego przyjaciela, który go używa, że jest dobrze utrzymany.",False
+247,"Moje pranie jest czyste, tylko można zobaczyć resztki proszku na ciemniejszych koszulach i innych częściach prania.",False
+248,"Najlepszy wynik, jak dotąd nic lepiej odkryto, pranie jest przyjemne w dotyku, przyjemny zapach",False
+249,"Uwielbiamy ten detergent.  Pachnie cudownie i spełnia wszystko, co powinno.",False
+250,Bardzo dobry i bardzo świeży doskonały.. Bardzo się z tego cieszę,False
+251,Bardzo dobrze! !️ Przez długi czas dla mnie tylko Ariel jest,False
+252,"Jestem bardzo zadowolony, pranie będzie lśniące, czyste i pachnące tygodniami",False
+253,"Dzięki Ariel Color, po długiej odysei, znalazłem detergent, który usuwa wszelkiego rodzaju brud i plamy w normalnym cyklu prania bez blaknięcia, a jednocześnie nie pachnie natrętnie! W sumie jestem w pełni zadowolony.",False
+254,Umyłem się nim w domu mojego przyjaciela i byłem mile zaskoczony. Nawet ubrania robocze stały się czystsze niż oczekiwano.,False
+255,"Super pranie, lubię to brać, ale jest też tak, że kolory po prostu blakną z proszkiem, nie masz tego z płynnym detergentem. Ale to jest niezależne od produktu",False
+256,Zawsze biorę białe pranie. Do tej pory pozbyłem się całego brudu. Pranie również staje się jasnobiałe.,False
+257,"Czy to z białym praniem, czy z kolorowym 30 stopni lub 60 stopni",False
+258,"Świetny detergent, Ariel to po prostu marka, która odnosi sukcesy od wielu lat i słusznie. Detergent jest świetny, pranie jest czyste i pachnie świetnie",False
+259,"Po długim zażyciu innego detergentu i praniu stało się szarawe, przełączyłem się na Ariel i pranie jest teraz znacznie jaśniejsze, a szara mgiełka zniknęła.",False
+260,"Zawsze jestem zaskoczony, jak wszystkie plamy są usuwane w niskich temperaturach. Ponadto mój syn ma neurodermitis i nie ma reakcji alergicznych",False
+261,Ariel czyści doskonale......... Jestem bardzo zadowolony..... Mogę go tylko polecić.........,False
+262,"Do góry! Nawet babcia go używała, moja mama, a teraz ja.",False
+263,"To mój ulubiony produkt, od lat kupuję detergent kolorowy Ariel zawsze kupowany",False
+264,"Mój ulubiony detergent, pierze się świetnie, a jeśli weźmiesz za dużo, nie ma natychmiast plam.",False
+265,Nie kupuję żadnego detergentu poza tym. Zapach prania nawet po długim czasie w szafie jest bardzo dobry i nigdy nie miałem problemów z plamami po praniu.,False
+266,"Uwielbiam to ariel, zapach świeżego prania i czystości i wyciągnij z niego wszystko, co dobre, które plamy są naprawdę tak wspaniałe",False
+267,"Ariel jest najlepszym detergentem do wszystkich tkanin, zwłaszcza odzieży roboczej",False
+268,"Kolor Ariel jest również przekonujący, pranie jest nieskazitelnie czyste, pachnie dobrze nawet w niskich temperaturach iw krótkim programie.",False
+269,"Zapewnia przekonujący efekt prania, brak szarego zamglenia, wyraźne kolory nawet w niskich temperaturach.",False
+270,"Wolę brać strąki, z proszkiem już miałem problem, że na praniu były jeszcze resztki, ponieważ noszę wiele ciemnych rzeczy, to nie jest miłe. Strąki rozpuszczają się świetnie, pranie jest czyste i dobrze pachnie.",False
+271,Biorę proszek Ariel od dłuższego czasu i jestem bardzo zadowolony. Lubię też zapach świeżości.,False
+272,Jest to dochodowa produkcja i od tego czasu zawsze była w moim domu.,False
+273,"Jestem bardzo zadowolony z ariel, przyzwyczajony do proszku, potem przyszedł płynny detergent, a teraz strąki. Super dzięki producentom, strąki są czystą rzeczą.",False
+274,Najlepszy detergent kolorowy! Nie chcę już tego przegapić!,False
+275,"Chociaż próbujesz również innych środków pomiędzy, zawsze wracasz do tego, co jest dobre ... Ariel proszek detergent do pościeli, zasłon, itp.",False
+276,"Ten proszek do prania jest bardzo dobrym produktem!  To jest to, co lubię kupować raz za razem. Jestem w większości bardzo zadowolony z wydajności prania.",False
+277,"Pranie było nienagannie czyste, a zapach był również doskonały.",False
+278,"Myślę, że to świetnie, mimo że używam ARIEL dopiero od prawie 40 lat, jeszcze go nie próbowałem",False
+279,"Od prawie 40 lat tylko ARIEL, po prostu najlepszy jaki jest",False
+280,"Używam Ariel dopiero od prawie 40 lat i wszystkie odmiany, nie chcę niczego więcej",False
+281,"Pranie staje się czyste, a przyjemny zapach pozostaje w praniu",False
+282,"Ubrania są bogato czyste, pachną świeżo.",False
+283,"Uwielbiam detergent Ariel! Zapach pachnie naprawdę dobrze, a pranie staje się naprawdę ładne i białe i pozostaje białe! Większość plam usuwam również przy pierwszym praniu. Więc mogę go tylko polecić",False
+284,"Muszę przyznać, że kupuję tylko Ariel. Jestem bardzo zadowolony, ponieważ jest to w sam raz dla moich ubrań i dla mojej skóry.",False
+285,"Jestem bardzo zadowolony z detergentu, z 3 dziećmi jest dużo brudu i zawsze cieszę się, gdy rzeczy wychodzą z maszyny czyste. Pachnie bardzo dobrze, przez większość czasu używam go bez płynu do płukania tkanin. Nie używaj już żadnego innego proszku do detergencji.",False
+286,"Produkt jest doskonały, nie mogę sobie wyobrazić lepszego, kontynuuj dobrą pracę Ariel",False
+287,Jesteśmy bardzo zadowoleni z Ariel. Używaj tylko proszku. Pranie pachnie bardzo przyjemnie po praniu. Nie używaj płynu do płukania tkanin.,False
+288,"Czyszczenie blatu odbiera kolory, a także szarą skórkę raczej mniej, ale najważniejsze jest czyste ;)",False
+289,Zawsze używaliśmy Ariel i polecamy go innym.,False
+290,"W przeciwieństwie do wielu innych marek, lepiej jest dozować pranie i zachować kolor, potrzebujesz mniej proszku do prania, aby osiągnąć dobre wyniki. Pranie jest czystsze z niewielką ilością proszku do prania niż w przypadku wielu innych produktów, w których trzeba użyć dwa lub trzy razy więcej proszku.",False
+291,"Wysoka wydajność, optymalne czyszczenie, chwyta wszelkie zabrudzenia",False
+292,Doskonały detergent o absolutnie długotrwałym zapachu nawet bez płynu do płukania tkanin. Nigdy więcej!,False
+293,"Zufirieden ze stosunkiem ceny do wydajności. Wynik po praniu, zgodnie z oczekiwaniami, jest dobry.",False
+294,"Dostaję moją odzież roboczą bardzo czystą z tym detergentem i jest ładna i biała. W przeszłości musiałbym je chlorować 2x w roku, na szczęście już tego nie potrzebuję. Jestem tak zadowolony, że kupuję tylko Ariel. Dziękuję!",False
+295,"Używam tylko Ariel, ponieważ i tak bardzo przyjemne prostowanie, specjalna czystość wszystkie plamy znikają, każda mama z dzieckiem wie, co to znaczy mieć brudne pranie! Po prostu najlepszy produkt",False
+296,"Pram głównie białe ręczniki, obrusy i dywaniki kąpielowe. Pranie pachnie świeżością, wychodzi z pralki super czyste i nie mam żadnych pozostałości detergentu w komorze detergentu. Dla mnie jak dotąd najlepszy detergent do prania.",False
+297,Wszystkie plamy na mojej drogiej białej koszuli.Na szczęście Ariel zmywa wszystko z powrotem.,False
+298,Czyste pranie świeżym zapachem. Jestem bardzo zadowolony z produktu. Kupiłbym ponownie w dowolnym momencie.,False
+299,"Mój absolutny faworyt od wielu, wielu lat. Moja mama już go używała i ja go przejąłem. Przez lata, oczywiście, próbowałem różnych innych marek i bezimiennych proszków do prania i zawsze wracałem do Ariel z wyrzutami sumienia.",False
+300,"Bardzo dobrze, że nadal by się to odbywało, ponieważ jestem zbyt szczęśliwy",False
+301,"Jestem zadowolony z tego detergentu, robi to, co obiecuje.",False
+302,"Myję się z Arielką od lat i jestem bardzo zadowolona. Z jednej strony pierze się czysto, az drugiej jest delikatny dla prania. Ponadto wydziela bardzo subtelny zapach, który nadaje praniu dodatkowy świeży charakter.",False
+303,"Super kolorowy detergent, zawsze miałem ten z dm wcześniej, ale w pewnym momencie pozostał stęchły w ubraniach. Ariel jest nieco droższy, ale wart swojej ceny.",False
+304,Z produktu jestem zadowolony miło spędzić czas lata,False
+305,Bardzo dobry zapach.Wydajność prania z plamami trochę zbyt luźnymi!,False
+306,"Jeden z najlepszych proszków do prania, jakie znam, tutaj stosunek ceny do wydajności jest odpowiedni!",False
+307,"Ogólnie rzecz biorąc, w porządku. Pranie pachnie świetnie Niestety, w opakowaniu, które kupiłem, brakowało pomocy w dozowaniu",False
+308,"Jestem bardzo zadowolony z lekkiego prania i gotowania prania tylko z ciemnym praniem, często można zobaczyć pozostałości proszku",False
+309,Po prostu świetnie!!! Moje dzieci i ja bardzo dobrze tolerujemy detergent. Zapach jest niesamowity i trwa bardzo długo ...,False
+310,Wyjątkowy wybórZ pewnością najlepszy proszek do prania w historii,False
+311,"Używam Ariel dopiero od lat. Jestem zadowolony, ale to nie robi plam. Następnie stosuje się dodatkowe środki zaradcze.",False
+312,"Witam, powiedziałbym, że Ariel ma świetną nową kompozycję. Pranie jest ładne i czyste, a zapach jest po prostu niebiański.",False
+313,Zawsze przysięgałem na proszek. Jest zdecydowanie tańszy i ten rozmiar utrzymuje się bardzo długo. Najwyższa jakość,False
+314,"Mój ulubiony, jeśli chodzi o detergenty o dużej wytrzymałości! Po przetestowaniu wszystkich możliwych kształtów i form zawsze wracam do pudru Ariel Compact! Jestem absolutnie przekonany o wyniku prania, jasne zalecenie !!",False
+315,"Najlepszy kolorowy detergent, jaki kiedykolwiek miałem w maszynie! Do tej pory zrobił wszystkie plamy, ale tylko proszek to osiąga, strąki nie mogą tego zrobić.... Zamierzam się tego trzymać, ponieważ moje pranie utrzymuje kolory przez długi czas i jest absolutnie czyste!",False
+316,"Mój absolutnie ulubiony detergent, po długich poszukiwaniach i wielu poszukiwaniach.",False
+317,Świeże i pachnące pranie... Fajnie jest go odłożyć. Zachowanie jakości tkaniny jest również świetne. Gorąco polecam.,False
+318,Bardzo lubię go używać i to od lat. Polecam.,False
+319,"Próbowałem już wiele, a ten detergent jest po prostu najlepszy! Zwłaszcza z białym praniem i małym dzieckiem :)",False
+320,Często używam Ariel do brudnego prania i jestem bardzo zadowolony. Kolory pozostają świetliste.,False
+321,"Bardzo dobry detergent, ale preferuj wersję płynną",False
+322,"W przypadku białego prania jest to mój główny detergent. Plamy są dobrze usunięte, pranie pozostaje białe i nie ma szarej mgiełki. Uważam, że zapach jest przyjemny, niezbyt denerwujący.",False
+323,Ariel to dla mnie najlepszy detergent. Pranie jest zawsze niezawodnie czyste i ma przyjemny zapach.,False
+324,Jestem bardzo zadowolony. Polecam Ariel moim znajomym.,False
+325,"NIE BYŁEM W PEŁNI USATYSFAKCJONOWANY, PONIEWAŻ PROSZEK NIE ROZPUŚCIŁ SIĘ CAŁKOWICIE W TEMPERATURZE 30 STOPNI.",False
+326,"Super łatwe dawkowanie, świetne wyniki. Mam 1-osobowe gospodarstwo domowe, więc nie muszę się myć zbyt często, więc uważam, że kapsułki są bardzo praktyczne",False
+327,"Uwielbiam Ariel i lubię używać go wielokrotnie, nawet w niskiej temperaturze prania",False
+328,Myję się z Ariel Color od lat i nigdy bym tego nie zmienił. To jest po prostu niesamowite.  Zmywa wszelkie plamy z ubrań moich dzieci bez wstępnej obróbki.,False
+329,"Łodyga jest najlepszym detergentem, jaki kiedykolwiek jadłem, chociaż w płynie nadal bardzo dobry",False
+330,"Na początku byłem sceptyczny... Znowu coś nowego itp. Ale muszę powiedzieć, że strąki są idealne, pod każdym względem! Tippi Top wydajność czyszczenia, zwłaszcza niewiarygodnie wspaniały zapach ... Kciuk w górę!",False
+331,"Super detergent tylko do ciężkich zabrudzeń, ponieważ potrzebuje również drugiego uruchomienia ... Ale jeśli masz dzieci i masz więcej niż 12 lat, wiesz, ile prania się zbiera !!! To nie jest problem z tymi detergentami, masz wrażenie, że po prostu trudno jest opróżnić :D",False
+332,"Produkt mnie przekonał. Wyniki prania są bardzo dobre, zapach doskonały.",False
+333,"Jestem fanem produktu, ponieważ jest to kolorowy wadchmottel, nie oczekuję czystego białego prania, ale trochę się odbarwia, gdy myję go tym detergentem ... Niemniej jednak produkt ma wspaniały zapach i zmywa wszystko do czysta!",False
+334,"Wynik prania jest zawsze przekonujący. Nawet w niskich temperaturach iw programie ekspresowym (30 minut) pranie będzie czyste, pachnie przyjemnie świeżo, a kolory będą świecić.",False
+335,"jest super pachnący, kocha całą rodzinę. Gorąco polecam",False
+336,Jestem bardzo zadowolony i polecam detergent każdemu.,False
+337,Super środek zaradczy zawsze poleca go bardzo dobrze na plamy,False
+338,"Jesteśmy absolutnie zachwyceni obydwoma wariantami, czy to płynnym, czy proszkowym. Zapach jest świetny i będzie idealnie czysty nawet od mojego męża pomimo oleju silnikowego ;)",False
+339,Detergent do prania Ariel jest naprawdę najlepszy ze wszystkich. To naprawdę czyści bardzo dobrze przy najniższej dawce. W połączeniu z płynem do płukania tkanin Lenor po prostu świetnie.,False
+340,Dla mnie Ariel to najlepszy proszek do prania.,False
+341,"Ariel ,,,jest super detergent moje pranie będzie super czyste .. Biel pozostaje biała nawet po 100-krotnym umyciu. Nawet kolorowa bielizna zachowuje swoją promienną czystość ...",False
+342,Produkt dotrzymał obietnicy na lata. W czystości i jakości.,False
+343,"Wszystkie plamy zniknęły, a dzięki aktywnemu tlenowi 99,99 procent bakterii, wirusów i grzybów jest usuwanych bez agresywnych pozostałości!",False
+344,"Ariel wyróżnił się dla mnie jako własna marka. Kolory pozostają kontrastowe... Pranie będzie czyste, plamy znikną, a pranie do gotowania będzie jasnobiałe... Do góry!",False
+345,"Mój detergent nr 1 od lat. Jeśli chodzi o kolorowe i łagodne detergenty, lubię kupować tańszą markę.",False
+346,"Praktycznie dorastałem z tym. Moja babcia i moja mama też go używały. Jestem bardzo podekscytowany tym produktem. Pakiet wartości dokładnie mi odpowiada, ponieważ sumuje się do dużej ilości prania w moim domu. Plamy nie stanowią problemu, a białe pozostają białe.",False
+347,"Najlepszy detergent do kolorowych, farby się nie wypłukują, a plamy są niezawodnie usuwane,",False
+348,"Produkty Ariel kupują również za granicą np. Gran Canaria, polecane są tam również z wodą.",False
+349,"Moim zdaniem Ariel jest liderem jako detergent, ponieważ dotrzymuje tego, co obiecuje nawet przy 30 stopniach i naprawdę pachnący wraca z maszyny",False
+350,Bardzo zadowolony Bis weisse T-shirty (kuchnia) plamy bardzo uparte,False
+351,"Bardzo skuteczny detergent o dużej wytrzymałości, którego używam od bardzo dawna. Zawsze jestem zaskoczony tym, jak czyste i zadbane pranie wychodzi z pralki. Czas za to podziękować.",False
+352,Najlepszy detergent! Jako matka trójki dzieci mam niekończące się pranie. Próbowałem wielu rodzajów detergentów ... ale żaden z nich nie pozwala mi usunąć krasnoludów tak dobrze jak Arirl!,False
+353,Bardzo zadowolonyDopóki białe koszulki (kuchnia)Plamy bardzo uparte Nie będzie czysto,False
+354,Od lat szukam odpowiedniego detergentu i próbowałem różnych rzeczy. Używam Ariel regularnie od około roku i jestem bardzo zadowolony.,False
+355,"Myślę, że produkt jest świetny, pranie jest czyste i bardzo przyjemne.",False
+356,"Detergent jest świetny! Kiedyś myłem się z innymi markami, ale po tym, jak mogłem wypróbować produkt, przekonał mnie.",False
+357,"Od lat mamy ARIEL jako detergent, ponieważ nasza starsza córka ma własne gospodarstwo domowe, nie ma innej cechy, która by ją przekonywała!!!!",False
+358,"Jutro kupię ARIEL COMPACT POWDER, moje pranie było tak czyste, to jest DETERGENT, którego szukałem przez długi czas",False
+359,"Najlepsza jakość i wydajność, jak wszystko od Procter and Gambel",False
+360,"Bardzo dobry detergent, pierze jak powinien, a nawet lepiej.",False
+361,"Mój standardowy detergent, tylko strąki mogą czyścić jeszcze lepiej, ale ponieważ są dla mnie zbyt drogie, trzymam się proszku. Tutaj stosunek ceny do wydajności jest właściwy.",False
+362,"Niestety nie dostałem darmowej próbki, ale znam ten produkt. Detergent Ariel może być wysoce zalecany. Również bardzo dobry wynik prania w niskich temperaturach. Topmast!",False
+363,"Uwielbiam to Wysoka jakość i bardzo ładne, zawsze to ❤️❤️❤️ kupuję",False
+364,"Kupuję tylko Ariel, jestem zachwycony, pranie jest czyste nawet w temperaturze 30 stopni i ładnie pachnie!",False
+365,"Jestem bardziej niż zadowolony, zwłaszcza że powinien być dobry bez płynu do płukania tkanin świetnie",False
+366,"nawet w temperaturze 40°C wszystkie plamy, które pojawiły się na ubraniach podczas posiłku, zniknęły.",False
+367,"Najlepszy proszek do prania kiedykolwiek, pranie będzie ładne i czyste i dobrze, jestem bardzo zadowolony",False
+368,"Myje się tak, jak sobie wyobrażałem. W każdym razie bardzo dobrze.",False
+369,"Dziękuję przede wszystkim, że pozwolono mi przetestować produkt. Byłem więc zadowolony z Produkt.Es pachnie bardzo przyjemnie i polecam go innym.",False
+370,Naprawdę świetny detergent polecam każdemu ponownie teu teu,False
+371,Jestem naprawdę bardzo zadowolony z tego produktu. Moje pranie wygląda jak nowe!,False
+372,"Pranie będzie czyste, pachnie subtelnie świeżo. Przyjemny. Dobry efekt prania!",False
+373,"Świetny stosunek jakości do ceny! Moje pranie będzie puszyste, miękkie i czyste.",False
+374,"Zrobiłem pranie z nim czas, że używam tylko Ariel, usuwa całą opiekę.",False
+375,"super produkt weiter so, besser geht nich bei eo ein Produkt",False
+376,"Podoba mi się produkt i polecam go innymWäscht super, a także idzie bardzo dobrze, wszystkie plamy wychodzą, jestem całkowicie zadowolony",False
+377,Dobry wynik prania z normalnie zabrudzonym praniem.,False
+378,Jestem bardzo zadowolony. Zapach i moc prania są świetne.,False
+379,"Super,, mogę tylko polecić! Używamy tylko proszku Ariel i jesteśmy bardzo zadowoleni. Pranie staje się czyste i pachnie bardzo dobrze.",False
+380,"Próbowałem już wielu produktów i zawsze wracam do ariel, nawet w niskich temperaturach widać wynik Biały jak biały Top Top Top",False
+381,"Zapach czystości jest ważny, szczególnie w naszym solarium",False
+382,"Jeśli jesteś alergikiem jak ja, jesteś zależny od tego, że składniki nie zmieniają się na stałe. Ponadto usuwanie plam prawie zawsze działa od razu, bez prac przygotowawczych; Wyjątek: wysuszone plamy kałowe.",False
+383,"Zawsze jestem zachwycony efektem Ariel! Pranie jest zawsze świeże i czyste. Opakowanie ""100 prań"" wystarcza na 3 miesiące codziennego prania. Moja pralka również zawsze pozostaje świeża. Opakowanie jest solidne, wygodne do przenoszenia. 100% 5 gwiazdek. Dziękuję Ariel!",False
+384,Używamy tylko proszku Ariel i jesteśmy bardzo zadowoleni. Pranie staje się czyste i pachnie bardzo dobrze.,False
+385,"Jestem przekonany o czystości, z kolorowym praniem wydajność czyszczenia jest naprawdę na najwyższym poziomie! Niestety, nadal miałem trochę szarej mgiełki w praniu z ciężkim detergentem.",False
+386,"Ariel udaje mi się umyć go za każdym razem, nawet przy 30 lub 40 stopniach prania.Używam go od lat i zawsze polecam.",False
+387,"nie noś ciągle opakowań detergentu, nie mogę jeszcze powiedzieć wiele o produkcie bezpośrednio, ponieważ użyłem z nim tylko 2 wsadów do prania",False
+388,Myję się z ariel od lat i jestem bardzo zadowolony.  Przejście na inne produkty nigdy mnie nie satysfakcjonowało.,False
+389,"Pobicia! Wiele razy próbowałem czegoś innego, ale zawsze kończyłem na Ariel.",False
+390,"Mogę go tylko polecić: jest droższy niż inne detergenty, najlepiej czyści i usuwa plamy",False
+391,"Super detergent, optymalny stosunek jakości do ceny.",False
+392,Ariel jest nr 1 (biały i kolorowy). Chcę tylko korzystać z tej marki. Dziękuję :),False
+393,"Najlepszy detergent, czy to kolorowy, do białego prania lub z febreeze, wszystko, co próbowałem i wszystkie są świetne",False
+394,"Myślę, że prosty dozowani i zapach są świetne. Nie byłem jeszcze w stanie odpowiednio ocenić zachowania kolorów, ponieważ mogłem to ocenić tylko na nowej części garderoby. Ale biel świeci bardziej (przynajmniej tak sobie wyobrażam)",False
+395,"Jest idealny taki, jaki jest. Plamy zniknęły, a pranie pachnie bardzo dobrze",False
+396,Wspaniały zapach! Super czyste pranie nawet w niskich temperaturach!,False
+397,"Obsługa jest naprawdę bardzo łatwa i czysta, pranie jest naprawdę lśniąco czyste i pachnie cudownie. Muszę przyznać, że byłem bardzo mile zaskoczony.",False
+398,"Nie mogę powiedzieć nic więcej o tym, że nasze pranie jest jasne białe i czyste. Poza naprawdę uporczywymi plamami, które i tak wymagają wstępnej obróbki, Ariel ma wszystko.",False
+399,"Świetna wydajność prania, usuwa nawet uporczywe plamy, a pranie ładnie pachnie",False
+400,"Miałem szczęście być testerem produktu Ariel 3in1 Pods, teraz kupiłem również ten detergent w międzyczasie, czy to możliwe, że nie pachnie tak intensywnie?",False
+401,"Ogólnie rzecz biorąc, Ariel Actilift jest w porządku! Ale może być lepiej z usuwania plam, jeśli wierzysz reklamie.",False
+402,W ich opisie na opakowaniu wyjaśniony jest tylko główny cykl prania! Jaką ilość wkładam w cykl prania wstępnego?,False
+403,"Jestem bardzo zadowolony z produktu ..... Łatwy w użyciu, dobre usuwanie plam i przyjemny zapach.... Bardzo dobrze!",False
+404,"Jestem całkiem zadowolony. Plamy wyszły na zewnątrz, ale usuwanie zasłony nie było tak dobre. Z drugiej strony obsługa jest bardzo prosta. Wysoce zalecane dla małego gospodarstwa domowego.",False
+405,"Bardzo łatwy w użyciu, bardzo dobra wydajność czyszczenia nawet w niskich temperaturach. Bardzo przyjemny zapach. Gorąco polecam.",False
+406,Ariel jest bardzo dobrym detergentem. Jestem przekonany i nie kupuję nic innego w tej chwili,False
+407,Jestem bardzo zadowolony i używam Ariel od lat.,False
+408,Chyba będę musiał kupić go ponownie!   Mamy tyle zabawy jedząc bez myślenia o fleken..! Wspaniały.,False
+409,Wydajność prania jest świetna. Obsługa jest łatwa i uwielbiam zapach.,False
+410,Ariel jest bardzo dobrym detergentem. Jestem przekonany i nie kupuję nic innego w tej chwili.,False
+411,"Jestem bardzo zadowolony z nowego produktu Ariel, łatwego w użyciu, bardzo przyjemnego zapachu, doskonałej wydajności prania. Chętnie użyję go ponownie :)",False
+412,"Lekkie dozowanie, plamy były również usuwane po umyciu. Muszę powiedzieć, że pracuję w opiece i jest wiele plam. Tylko to, co mi osobiście nie podobało się, to zapach, mógł być bardziej świeży. Ale w przeciwnym razie świetnie, kupiłbym go ponownie i nadal był pomijany.",False
+413,Pranie pachnie dobrze i jest czyste i czyste. Wyniki prania w niskich temperaturach są bardzo dobre.,False
+414,"Pozwolono mi przetestować produkt.... doskonały w obsłudze, bardzo dobra wydajność prania, niskie zużycie detergentów",False
+415,"Otrzymałem nowy Ariel jako próbkę produktu i od tego czasu robię z nim pranie i jestem naprawdę, naprawdę podekscytowany, po prostu robi to, co mówi na puszce;",False
+416,"Robi prawie wszystko clean.In przypadku mocno zabrudzonych rzeczy, muszę wziąć inne środki (żywność dla niemowląt itp.)",False
+417,"Ten produkt jest idealny. Mogę sprawić, że wszyscy będą czyści.",False
+418,"Myślę, że supeeeer Ariel jest dobry!!!! Pachnie dobrze, a pranie lśni!!!!!!!!",False
+419,Użyłem dziś detergentu na moim białym praniu. Wszędzie wciąż były plamy. Zdecydowanie już tego nie kupuję.,False
+420,"Wziąłem już Ariel i byłem bardzo podekscytowany, było już kilka odnowień i jeszcze go nie testowałem, ale to byłoby",False
+421,"Pranie jest ładne i czyste i pachnie świeżo, zawsze szczęśliwe.",False
+422,Ariel od dawna jest jednym z moich ulubionych produktów do prania. Zapach i czystość nie pozostawiają nic do życzenia....,False
+423,"Super wydajność prania i wydajność cenowa, szczególnie z dziećmi!",False
+424,Od lat robię pranie z Ariel i jestem o tym przekonana. Czysty i dobry zapach.,False
+425,Super świetny detergent. Czyści bardzo niezawodnie i pachnie bardzo przyjemnie. Mogę go tylko polecić wszystkim,False
+426,"Super detergent, gorąco polecam. Nawet plamy z trawy i inne przerażające plamy.",False
+427,Jestem bardzo podekscytowany Arielką. Kupiłbym go ponownie w dowolnym momencie. Poleciłem go również innym.,False
+428,"Myję się tylko z Arielką. Pranie jest zawsze, ale naprawdę zawsze czyste, bez względu na to, jakie plamy się w nim znajdują.",False
+429,"Polecam Ariel każdemu. Nie potrzebujesz zbyt dużo detergentu, a mimo to pranie jest czyste i pachnie cudownie świeżościąLg Ela",False
+430,Z ariel byłem w stanie wyprać ubrania robocze mojego męża i syna w 30 stopniach bez żadnych obaw i były super czyste,False
+431,Czy mój detergent... toleruje całą rodzinę. Jesteśmy przekonani!!!!!,False
+432,"Bardzo dobre, bezproblemowe pranie możliwe, super utrzymać",False
+433,Używamy Ariel od lat i nadal jesteśmy z niego bardzo zadowoleni.,False
+434,Używamy Ariel w kółko i robimy to od lat. Gorąco polecamy,False
+435,Jestem bardzo zadowolony i bardzo czyście i bardzo dobrze się prostuje,False
+436,"Jestem podekscytowany i bardzo zadowolony, trzymam się tego. Dziękuję bardzo",False
+437,"Znam Ariel od mojej matki, dorastałem z nim i mam go przez jakiś czas w moim domu dzięki twoim kuponom. Wydajność czyszczeniaUsuwanie plam ochronnych TOP tylko po to, aby polecić mój wybielający połysk ponownie jak NOWOŚĆ Dziękuję",False
+438,"Wolę detergenty Ariel, ponieważ są jedynymi, które nie sprawiają, że kicham, gdy otwieram opakowanie i ładnie pachną. Niestety, moja ulubiona odmiana z febreze prawie nigdzie nie jest kupowana w opakowaniach zbiorczych, a szkoda!",False
+439,"Myślę, że detergent jest dobry. Niestety, zawartość jest coraz częściej zmniejszana przy tym samym rozmiarze opakowania, teraz proszek zawiera tylko 14 WL w tej samej cenie.",False
+440,Biała koszula z brudnymi brzegami w ogóle nie działa. Nawet moja całkowicie zabrudzona biała koszula pierze Ariel bez plam. Trudne miejsca na białym nie stanowią problemu dla Ariel.,False
+441,"Kolor Ariel pozostawia kolory silne. Nawet plamy znikają bez zbędnych ceregieli. Detergent jest świetny, moje suknie są za każdym razem jasnobiałe. Kontrast kolorystyczny pozostaje silny, po prostu świetny.",False
+442,"Używam proszku do prania do mojego białego prania, bardzo dobry efekt prania, wszystko czyste i czyste.",False
+443,"Używam Ariel od lat, moja mama zawsze go brała. Jestem bardzo zadowolony z wydajności czyszczenia,Ariel tworzy nawet najgorsze plamy.",False
+444,Mój standardowy detergent. Uwielbiam ten zapach i zawsze go polecam. Wydajność czyszczenia jest przekonująca. Używam go do wszystkich prań.,False
+445,"Cudowny zapach i uczucie miękkości na skórze, nawet po ugotowaniu, przypomina mi raz po raz noc z dziadkami. ;)",False
+446,"Dobry detergent, ale z 22 ct na pranie również nie jest tanim domem. Przy 30°C obiecuje się więcej niż robi, ale lepiej niż w przypadku innych detergentów.",False
+447,"Bardzo zadowolony z proszku, chociaż osobiście uważam, że żel jest lepszy do białego prania :D",False
+448,"Zarówno Ariel, jak i Ariel Color czyszczą w temperaturze 30 ° C. Nawet ciężkie plamy wychodzą bez wstępnego czyszczenia; Białe pranie pozostaje białe przez długi czas. Często jestem pytany, czy moje pranie pachnie tak dobrze i jakiego proszku do prania używam. Rekomendacja 120%.",False
+449,"To fajny produktBardzo go lubię, polecam wszystkim",False
+450,"Ariel jest jednym z najlepszych detergentów No.1. Nie tylko świetny, ale czuje się czysty i wspaniały, prawie nie wymaga prasowania.",False
+451,"Dobry detergent, ale z 22 ct na pranie również nie jest tanim domem. Przy temperaturze 30°C obiecuje się więcej niż robi, ale lepiej niż w przypadku innych detergentów.",False
+452,"Ariel jest świetnym detergentem, kiedyś używał innego detergentu, nie zbliżył się do Ariel. Odkąd pojawił się nasz syn, używamy Ariel tylko z wyczuciem. Nawet płaska marchewka wychodzi bez wysiłku bez przetwarzania, a pranie świeci.",False
+453,"Jestem zadowolony z ariel, nawet za granicą też go używam",False
+454,"Po prostu najlepszy detergent, pranie jest naprawdę super czyste, usuwanie plam jest świetne, a zapach jest również bardzo dobry. Niestety, nie jest to tak tanie. Niemniej jednak gorąco polecam. !!!!!",False
+455,"Klasyki detergentów i zapachów i pielęgnacji bez zmian bezkonkurencyjne w porównaniu, niestety również z odpowiednią dodatkową ceną",False
+456,"Przę z Ariel od bardzo dawna i zawsze .bin byłem bardzo zadowolony z prania results.At momencie, gdy uważam, że bardzo dobre wyniki prania w niskich temperaturach i w krótkim programie są bardzo dobre.",False
+457,"bardzo dobra wydajność czyszczenia wszystkich plam, przyjemny zapach prania",False
+458,"Muszę powiedzieć, że na początku byłem bardzo sceptyczny. Ze względu na niskie temperatury prania, ale jestem w pełni przekonany. Tak trzymaj",False
+459,"Dla mnie Ariel jest najlepszym detergentem, jaki znam.cena może być nieco niższa, ale to prawdopodobnie już się nie stanie. Zawsze lubię polecać Ariel!",False
+460,Super produkt czyści klasę w niskiej temperaturze i bez śladu szarej mgły,False
+461,"Biorę Ariel regularnie, dobre pranie, trochę drogie.",False
+462,"Super wydajność prania, łatwa ekonomiczna aplikacja, usuwa wszystkie plamy w 30 stopniach świetny wynik",False
+463,"Wydajność prania Ariel jest w porządku. Zapach jest dobry. Jednak nie będzie mnie już stać na Ariel (nawet z kuponem). W nowym opakowaniu prawie nic nie zostało!! Przerobiony, muszę wlać około 37 cnt na cykl prania jako proszek do prania do mojej pralki ...",False
+464,"Zawsze korzystaliśmy z Ariel i jesteśmy przekonani pod każdym względem, że zmiana nigdy nie była warta zachodu i teraz nie wchodzi w rachubę",False
+465,"Używam Ariel od lat i nie mogę wymyślić żadnego innego wytrzymałego detergentu. Ariel ma wysoką moc czyszczenia, a także bardzo przyjemny zapach. Gorąco polecam Ariel.",False
+466,"Dobry produkt, lubię go używać do moich ubrań roboczych, które ociekają tłuszczem. W przypadku białej odzieży biel również została zachowana przez długi czas.",False
+467,"Bardzo dobry detergent, łatwe dozowanie i świetna wydajność prania",False
+468,"Najlepszym kolorowym detergentem, którego często używam, jest Bunt Fein. Dżinsy lub ciemne ubrania, wszystko staje się czyste nawet w niskich temperaturach i pachnie przyjemnie nawet podczas noszenia.",False
+469,"Produkt spełnia moje oczekiwania, szczególnie jest pakowany w karton",False
+470,Super moc prania i przyjemny zapach. Kupię go ponownie.,False
+471,"Dla mnie najlepszy kolorowy detergent, jaki miałem do tej pory. Był fanem płynnych detergentów przez długi czas, dopóki nie spróbowałem tego. Zapach trwa, kolory trwają... Jestem po prostu przekonany i trzymam się tego proszku do prania",False
+472,"Wyprostuj dobrze, sprawia, że pranie jest czyste i czyste, opakowanie ma odpowiedni rozmiar!",False
+473,Kupuję go raz za razem! Pranie będzie dokładnie czyste,False
+474,"Ariel zatrzymuje się. Istnieje już od bardzo dawna. Dzięki temu UrOmi już się umyło, że tak powiem. Po prostu zauważasz różnicę w stosunku do produktów bez nazwy po praniu. Naszym zdaniem Ariel Color pierze trochę lepiej niż Persil",False
+475,"Dobry produkt, białe pranie bez zasłony. Gorąco polecam",False
+476,Bardzo dobry zapach i doskonałe pranie. Jestem bardzo zadowolony.,False
+477,"Pachnie dobrze, a efekt prania jest idealny.  Najlepszy kolorowy detergent kiedykolwiek.",False
+478,Używam tego detergentu głównie do prania 60° (zwłaszcza ręczników. Zapach jest nieco intensywny. Poza tym jestem bardzo zadowolony.,False
+479,"Bardzo dobry detergent w niskich temperaturach ładne czyste pranie, ładnie pachnie i utrzymuje się przez długi czas, polecam wszystkim",False
+480,Przyjemny zapach. Zapewniona jest również ochrona koloru. Używam detergentu od lat i jestem bardzo zadowolony. Większość plam wychodzi bez pozostawiania pozostałości.,False
+481,"Pranie pachnie wspaniale, a nawet ciężkie plamy wychodzą prosto",False
+482,"Detergent pachnie dobrze i pierze się czysto, tak jak powinien to zrobić detergent",False
+483,"Również tutaj, podobnie jak w przypadku wytrzymałego detergentu, pranie ubrań zajmuje lata i zawsze jest zadowolony.",False
+484,Produkt Finse I shreef dobrze. Kup to jeszcze raz. Proszek jest również dobry dla mojej maszyny Miele.,False
+485,"Produkt czyści się starannie, pachnie przez długi czas po praniu, zawsze dostanę go ponownie.",False
+486,"Nie jestem fanką proszku do prania, uwielbiam czapki lub płyn, ale jest całkiem dobry, pachnie przyjemnie i całkiem dobrze się myje",False
+487,Dzięki tym ekonomicznym detergentom można usunąć prawie wszystkie plamy bez wstępnej negocjacji. Zapach jest subtelny i nie natrętny.,False
+488,"Produkt w pełni spełnia moje oczekiwania, używam go od wielu lat",False
+489,"Dobrze się myje, ładnie pachnie. To tylko proszek do prania.",False
+490,"Wszystko jest w porządku, po prostu kup ten jeden detergent.",False
+491,"Przyjmuję go na przemian od wielu lat. Pierzy doskonale, nie plami, sprawia, że pranie błyszczy, a po praniu uczucie miękkości.",False
+492,Kupuję produkt od jakiegoś czasu i kupię go ponownie. Jestem bardzo zadowolony.,False
+493,"Fakt, że używam tego produktu od ponad 11 lat, mówi wiele. Zawsze świeże i czyste pranie....",False
+494,Uwielbiam ten zapach. Moje pranie jest zawsze czyste!,False
+495,Niestety produkt nie spełnił moich oczekiwań,False
+496,"Jak można się spodziewać po Ariel, pranie będzie czyste i pachnie bardzo dobrze!",False
+497,"Niedawno zaczęłam kupować Ariel, jestem w pełni zadowolona, nie potrzebujesz już płynu do płukania tkanin, pachnie bardzo dobrze.",False
+498,"Entuzjastycznie nastawiony do tego proszku, usuwa plamy wszystkie, jestem zachwycony i pachnie cudownie nawet po suszarce Pure fresh.",False
+499,"W poszukiwaniu detergentu o długotrwałym zapachu w końcu trafiłem na Ariel. Zapach jest taki, jak kiedyś u babci. Pranie po prostu pachnie świeżo przez cały dzień, a Ty czujesz się podwójnie czysty.",False
+500,Produkt jest po prostu dobry i spełnia moje oczekiwania pod każdym względem,False
+501,Bardzo lubimy detergent. Świetnie nadaje się do kolorowego prania.,False
+502,"Sprawia, że czysty, dotrzymuje tego, co obiecuje, bez nieprzyjemnego zapachu",False
+503,Używam detergentu od bardzo dawna i jestem bardzo zadowolony,False
+504,Używam Ariel od dziesięcioleci i jestem bardzo zadowolony z produktu.,False
+505,"Super produktywny, trwalszy zapach, po prostu go uwielbiam",False
+506,Zawsze kupuję ten dla naszej rodziny! Pranie jest super czyste i zachowuje kolor!,False
+507,Znacznie lepszy niż całe kapsułki i płynny detergent,False
+508,Jestem zadowolony z efektu i zapachu. Pranie będzie ładne i czyste.,False
+509,"Bardzo ekonomiczny i bardzo dobrze się czyści, a ponadto dobrze pachnie.",False
+510,"Kostka do mycia jest dobra, ale zapach jest katastrofalny! Kiedyś był to mój ulubiony detergent z zapachu!  Niestety już nie",False
+511,Kupię ten proszek do prania jeszcze raz świetny produkt,False
+512,"Zawsze używałem płynnego detergentu do kolorowego prania, nigdy więcej. Proszek jest po prostu świetny, moje pranie jest znacznie czystsze i pachnie świetnie. Gorąco polecam",False
+513,Brak reakcji alergicznych i doskonale oczyszcza.,False
+514,Używam detergentu od ponad 5 lat. Moje pranie jest zawsze bardzo przyjemnie świeże i czyste.,False
+515,"Brak pozostałości na praniu, dobrze tolerowany, bardzo dobry zapach",False
+516,"Detergent jest nadal dobry z powodu wydajności prania, ale dlaczego u licha zapach został zmieniony na lata. Jestem bardzo niezadowolony z nowego zapachu!",False
+517,"Kolory są zachowane, plamy nie; Zapach jest również bardzo przyjemny.",False
+518,Kupię produkt ponownie w dowolnym momencie. Jestem jego fanem.,False
+519,Pranie jest czyste i ładnie pachnie. Czy wszystko z tobą ok.,False
+520,"Długo szukałem odpowiedniego detergentu. Albo w pralce były pozostałości, pranie pachniało zabawnie, albo wynik prania nie był przekonujący. Z detergentem Ariel Color Detergent czas się skończył. Gorąco polecam!",False
+521,"Lubię go używać. Pachnie dobrze, a pranie staje się czyste",False
+522,Moje pranie jest czyste Pachnie całkowicie przyjemnie Kupię to ponownie i ponownie,False
+523,"Pozwala to usunąć najbardziej uporczywe plamy, a także pachnie świetnie!",False
+524,"Zdobądź wszystko czyste bez wstępnej obróbki, nawet zabezpieczenie przed dziećmi.",False
+525,"Minęły wieki, odkąd Ariel wpadł na zły pomysł zmiany zapachu, to wciąż wstyd! Niestety, ten proszek do prania śmierdzi!",False
+526,"Sprawia, że wszystko powinno być super czyste, a pranie pachnie cudownie świeżo.",False
+527,"Co jeszcze można napisać.  Po prostu TOP!! To wszystko, czego potrzebujesz do kolorowego prania.",False
+528,"Ogólnie jednak oceniamy wydajność prania detergentu Ariel jako ""dobrą"". Tylko plamy, takie jak olej silnikowy i szminka, były nadal wyraźnie widoczne w teście prania po praniu w temperaturze 60 stopni zarówno na tkaninach bawełnianych, jak i mieszanych",False
+529,"Zawsze lubię go kupować za wszystko, co kolorowe !!!",False
+530,"Czyste pranie, przyjemny zapach spełnia nasze oczekiwania",False
+531,Od lat ulubieniec wśród kolorowych detergentów! Zapach i wydajność prania Top!,False
+532,"Kupuję go wielokrotnie, ponieważ ma najlepszą jakość również tani cena",False
+533,"To jedyny detergent, który sprawia, że moje pranie ładnie pachnie.",False
+534,"pachnie fantastycznie, pierze się do czysta i bardzo się cieszę, że wybrałem ten produkt, po długiej przerwie",False
+535,Lubię myć się z Arielką. Uwielbiam ten zapach. A pranie błyszczy.,False
+536,Lubię używać produktu do dżinsów. Usuwa super plamy.,False
+537,Ten produkt spełnia moje oczekiwania pod każdym względem mogę tylko polecić.,False
+538,"Bardzo się cieszę, że mogę kupić ten produkt i mogę go polecić!",False
+539,"Robi to, co powinien: pierze się w większości czysto, a kolory pozostają w porządku.",False
+540,Używam go od lat i nie mogę powiedzieć nic negatywnego .. Mój syn jako alergik świetnie to toleruje,False
+541,"Zapach jest świeży, ale niezbyt nachalny, plamy wychodzą bez żadnych problemów, a kolory są zachowane.",False
+542,Utrzymuje jasność i usuwa zwykłe plamy nawet bez dodatkowych środków. W przypadku zaschniętych i uporczywych plam konieczne są jednak dalsze środki zaradcze.,False
+543,Spełnia wszystkie oczekiwania jakie mam i pachnie świetnie,False
+544,Tytuł mówi wszystko! Używam detergentu od dłuższego czasu i jestem z niego bardzo zadowolony!,False
+545,"Dla nas żaden inny detergent nie jest wykluczony, Ariel ma najlepszą wydajność prania, sprawia, że kolory błyszczą i po prostu dobrze pachną",False
+546,Super moc prania i przyjemny świeży zapach. Kupię go ponownie.,False
+547,Używam detergentu od ponad 15 lat i jestem bardzo zadowolony.,False
+548,"Kupuję tylko Ariel, nigdy nie kupię innych produktów, które pachną ubraniami tak dobrze i długo",False
+549,"Myję tylko proszkiem Ariel. Wszystko staje się czyste, pachnie świeżo i nie pozostawia śladów.",False
+550,"Niestety, pranie kolorowego detergentu nie pachnie tak pysznie jak wytrzymały detergent Ariel.  Ma taki stęchły mokry zapach prania w następstwie. Nie mam go z innymi detergentami ani tym na białe od Ariel. Przestrzegano instrukcji dawkowania.",False
+551,"Przyjemny, niezbyt silnie pachnący zapach świeżego prania! Można dozować oszczędnie! Bardzo dobra wydajność prania! I tak w kółko!",False
+552,"Lubię go używać, pranie okazuje się super czyste i ładnie pachnie!",False
+553,Produkt pachnie dobrze i usuwa plamy bez wstępnej obróbki.,False
+554,"Produkt w pełni spełnia moje oczekiwania, jest wart swojej ceny i kupuję go ponownie. Super efekt prania!",False
+555,Pra się czyście i ma przyjemnie subtelny zapach prania.,False
+556,Jestem bardzo zadowolony z Ariel Color i używam go od dłuższego czasu!,False
+557,Usuwa nawet najgorsze plamy bez wstępnego czyszczenia.,False
+558,"Uwielbiam ten detergent, czyści naprawdę dokładnie, więc nie potrzebujesz odplamiacza, z wyjątkiem trudnych plam.  Ale mogę również tolerować kilka detergentów na skórze. Przekazuję to naprawdę dobrze, pachnie przyjemnie i kupiłbym go wielokrotnie.",False
+559,"Najlepszy detergent ze wszystkich. Próbowaliśmy tak wielu i jest jedyna rzecz, która naprawdę przekonała.",False
+560,Używam tego detergentu do kolorowych rzeczy od lat. Dla mnie nie ma lepszego,False
+561,"Detergent Ariel jest bardzo dobry, dobrze się pierze, a także dobrze pachnie",False
+562,Produkt w pełni spełnia moje oczekiwania,False
+563,"Używam Ariel Color od wielu lat i wciąż jestem przekonany. Pranie będzie czyste i będzie przyjemnie pachnieć.   Denerwują mnie te ciągłe błazenady ze strony P&G z nową wielkością opakowania... Więc i tutaj, oczywiście również z nową ceną.",False
+564,Ten produkt przekonał mnie.kupiłbym go ponownie.,False
+565,"Zawsze z dobrymi wynikami, zawsze ""pełnymi"", dobrymi i więcej niż zadowalającymi",False
+566,Jestem z niego bardzo zadowolony od wielu lat. Zawsze polecam.,False
+567,Dla mnie najlepszy detergent od lat! Mogę tylko polecić.,False
+568,"Próbowałem również innych detergentów kolorowych i doświadczyłem, że proszek Ariel Color jest dla mnie najbardziej odpowiedni.",False
+569,Produkt spełnia swoje zadanie. Chętnie kupię go ponownie.,False
+570,"Stosunek ceny do wydajności bardzo dobry, kiedyś częściej zmieniałem produkty. Teraz kupuj tylko Ariel, czy to w proszku, czy w płynnym detergencie",False
+571,"Spełnia moje oczekiwania, wydajność prania świetna, świetny zapach!",False
+572,"Jest to detergent, który jest nieco droższy niż produkt NoName, ale jest wart swojej ceny.",False
+573,"Nie lubię żadnego innego detergentu, uwielbiam Ariel, który czyści pranie i sprawia, że kolory błyszczą. Cena i wydajność top",False
+574,Produkt spełnia moje oczekiwania !! Kupowałbym raz za razem,False
+575,W porządku. Jestem dobry.................................,False
+576,"Od lat mój numer 1 dla kolorowego prania.Mocny, przyjazny dla kolorów i ekonomiczny. Raz za razem z przyjemnością",False
+577,"W przeciwieństwie do innych proszków do prania, ten wydziela bardzo silny zapach, jak słodkie perfumy. Nie dla mnie.",False
+578,"Jestem bardzo zadowolony! Spełnia wszystkie oczekiwania i myślę, że zapach jest naprawdę dobry 🥰",False
+579,"Zawsze chętnie kupujemy i dostarczamy nasze opakowania zbiorcze detergentów Ariel na rynek DM w pobliżu nas, a to idzie szybko i zawsze taniej niż wszystkie inne oferty. Będziemy tam zamawiać wielokrotnie. Kocham DM",False
+580,Kupuję detergent od lat i jestem bardziej niż zachwycony.,False
+581,Doskonale pierze się nawet przy niskich dawkach,False
+582,"Produkt spełnia moje oczekiwania pod każdym względem, chętnie kupię go ponownie,,,",False
+583,Doskonałe wyniki prania i czystości.  Idealny dla dużej rodziny,False
+584,"Uwielbiam Ariel, zawsze używaną. W przeciwnym razie zawsze w płynie, ale kiedy musiałem kupić nową maszynę, poradzono mi, aby sproszkować. Jest naprawdę świetny, świetnie się rozpuszcza, nie pozostawia śladów",False
+585,Dobra wydajność prania. Bardzo dobra kompatybilność ze skórą. Odpowiedni dla alergików. Potrzebujesz tylko odrobiny proszku do prania na pranie. Absolutnie polecam.,False
+586,"Tutaj z 7 osobami jest dużo prania. Używam detergentu Ariel od 18 lat. Plamy wychodzą, pranie pachnie dobrze. Kolory są zachowywane. Jestem w pełni zadowolony",False
+587,Pachnie też tak dobrze... i wszystko będzie super czyste!,False
+588,Ulubiony detergent raz po raz kupuję tylko to,False
+589,"Robi to, co powinien. Pranie będzie czyste i ma przyjemny zapach.",False
+590,"Kupuję tylko detergenty Ariel, ponieważ zapewniają najlepsze efekty w tej cenie.",False
+591,Przyjemny zapach i dobra wydajność prania. Cena w porządku,False
+592,"Wielki! Bardzo dobra cena, dobra ilość, dostawa była również szybka",False
+593,"Najlepszy detergent jest bardzo, bardzo zadowolony",False
+594,Produkt spełnia moje oczekiwania pod każdym względem,False
+595,Pachnie świetnie i czyści! Kupiłbym produkt ponownie,False
+596,"Myje super czyste i ma wspaniały zapach, pomimo wrażliwej skóry nie wystąpiła reakcja alergiczna, swędzenie / zaczerwienienie itp.",False
+597,Dobry zapach i nieskazitelne usuwanie plam.,False
+598,"Zapach jest świetny i robi to, co powinien. Wyczyść rekomendację zakupu",False
+599,Dostaję prawie wszystkie plamy z ubrań dziecięcych. I nic nie blaknie w kolorze.,False
+600,Świetna cena za doskonałą wydajność praniaTrochę nieporęczny podczas porcjowania,False
+601,"Cieszę się, że mogę go ponownie kupić. To jest naprawdę, naprawdę piękne",False
+602,Bardzo lubiane czyste ceny i szybkie plamy,False
+603,"DO GÓRY!! Nigdy więcej butelek i plastikowych toreb, świetnie!",False
+604,Poczekam jeszcze raz na ofertę zakupu,False
+605,Lubię się nim myć raz za razem. I pachnie też świetnie.,False
+606,Produkt naprawdę mnie prześcignął! Wszystkie nieprzyjemne zapachy z prania zniknęły i pachnie bardzo świeżo! Wszystko będzie super czyste,False
+607,"Kupujemy od lat, po prostu pachnie ładnie i czysto i czyści świetnie!",False
+608,Produkt spełnia moje oczekiwania... Po prostu super dobry ...,False
+609,"Używam tego detergentu od wieczności i zawsze jestem bardzo zadowolony. Pranie będzie czyste, proszek można dobrze dozować.",False
+610,"Wynik prania i zapach po prostu świetnie, tylko zalecane",False
+611,Produkt spełnia moje oczekiwania pod każdym względem,False
+612,"To jedyny detergent, który spełnił wszystkie moje oczekiwania! Wszystko staje się naprawdę czyste i nie potrzebuję już płynu do płukania tkanin, ponieważ świeżość prania trwa i trwa! Nic",False
+613,Dla mnie jest tylko Ariel. Uwielbiam zapach Ariel i jestem całkowicie zadowolony z wydajności prania.,False
+614,"Po wielu próbach i błędach, od tanich do drogich detergentów. Gdzie kilka również wywołało we mnie alergię lub po prostu nie przemawiało do mnie. Żaden z nich nie przekonał mnie tak bardzo jak Ariel. Pierze czysto, ładnie pachnie i jest od lat.",False
+615,"Subtelny zapach, niezawodnie usuwa nawet uporczywe plamy i trochę plastiku!",False
+616,"Dla nas nie ma lepszego detergentu, kup go ponownie i ponownie",False
+617,Dokładnie zgodnie z oczekiwaniami. Znajomi polecili produkt!,False
+618,"Produkt spełnia moje oczekiwania i zdecydowanie polecam i kupię,",False
+619,"Odkąd wybrałem Atriel, lepiej usuwam plamy, a pranie pachnie ładnie i świeżo.",False
+620,"Zgodnie z oczekiwaniami, bardzo dobrze. Dobrze czyści i utrzymuje się przez długi czas bez twardnienia",False
+621,Kocham dash,False
+622,"Wciąż znam to z dzieciństwa. Kiedyś było dobrze i jest do dziś.kto potrzebuje detergentu, który wrzucasz do maszyny jak piłkę? Jest ekonomiczny, czyści, łatwy w portfelu i oszczędza odpady z tworzyw sztucznych.",False
+623,"Podobnie jak w przypadku jakości ommo, nie jest to profesjonalna kreska, nie oczekuj jakości Ariel. Wykonuje swoją pracę i ładnie pachnie.",False
+624,"Niestety, nie jest dobrze. Pranie pachnie naprawdę źle po praniu, całkowicie stęchłe i nie, to nie moja pralka! Mam wytrzymały detergent innej marki i zawsze pachnie świeżo. Szkoda naprawdę, nie mogę tego polecić.",False
+625,"Mam wrażenie, że coś zmieniłem w kompozycji, zapach jest nadal świetny",False
+626,Wszystko idealne,False
+627,"Normalna kreska, krumu nie jest naprawdę silny",False
+628,.. Nie pachnie tak bardzo.,False
+629,"Absolutnie ulubiony proszek do prania, przyjemny, wspaniały zapach, który utrzymuje się przez długi czas.",False
+630,"Więc jestem zachwycony! W przypadku moich poprzednich detergentów zawsze musiałem zacząć mozolnie zeskrobywać proszek z pudełka w połowie. Nie jest zbrylany ani klejony do końca, a pranie jest również czyste 1A. Nie mogę znaleźć niczego, na co mógłbym narzekać.",False
+631,Super szybka dostawa towarów jest OK,False
+632,Cena nie odpowiada wydajności,False
+633,"Ten proszek do prania bardzo dobrze się myje, nie pachnie tak przenikliwie, a także nie jest tak drogi.",False
+634,"Produkt ma bardzo przyjemny zapach, nie jest zbyt nachalny i zbyt intensywny. To sprawia, że pranie jest bardzo czyste, dobry stosunek jakości do ceny. Mój absolutnie ulubiony detergent.",False
+635,"Pranie pachnie świeżo przez długi czas, a proszek można dobrze dozować samodzielnie.",False
+636,"Kupuję seiz przez długi czas i jestem z niego bardzo zadowolony. Nie używam płynu do płukania tkanin, a mimo to pranie pachnie bardzo dobrze. Są też bardzo czyste.",False
+637,Kupuję go co miesiąc tylko topowy produkt,False
+638,Produkt spełnia moje oczekiwania. Zapach jest również dobry. Nie pachnie tak tanio.,False
+639,Produkt spełnia moje oczekiwania. Pranie będzie czyste i pachnie bardzo dobrze i długotrwale.,False
+640,"Kupowaliśmy już kilka razy, jesteśmy bardzo zadowoleni. Przyjemny zapach. Wolałbym opakowania kartonowe, ale DM i tak nie czyta tych recenzji.",False
+641,Bardzo dobry detergent w najlepszej cenie. Bardzo dobra wydajność prania,False
+642,"Wszystko zgodnie z oczekiwaniami, dobry stosunek wydajności ryżu, kup ponownie.",False
+643,"Uwielbiam kolorowy detergent, wspaniały zapach i długotrwałą świeżość.",False
+644,Pomimo niskiej dawki proszek jest bardzo skuteczny i zalecany,False
+645,"Jesteśmy bardzo zadowoleni z produktu, będzie czysty i nie pachnie zbyt nachalnie",False
+646,"Od lat mój proszek do prania z wyboru. Nie pachnie zbyt perfumowany, pranie jest czyste, dobre i łatwe do dozowania.",False
+647,Bardzo dobra wydajność czyszczenia nawet w niskiej temperaturze. Przyjemny zapach,False
+648,"Kupuj ten detergent wielokrotnie, ponieważ jest tani i dobry.",False
+649,"Spełnił moje oczekiwania, bardzo przyjemny zapach bardzo przyjazny dla skóry",False
+650,Używam go od lat i nie mam na co narzekać.,False
+651,"Ten detergent pachnie bardzo przyjemnie, zapach utrzymuje się długo w ubraniach. Potrzebujesz go stosunkowo niewiele, aby wyprać ubrania, kolory są chronione i nie blakną.",False
+652,"Niestety, nie toleruję wielu detergentów, ale toleruję je bardzo dobrze pomimo mojego neurodermit. Pranie pachnie super świeżo po praniu i robi to, co obiecuje!",False
+653,Detergent pachnie świetnie i spełnia swoje zadanie.,False
+654,Ubrania pachną przyjemnie po praniu.  Rekomenduj,False
+655,"Świetna cena, jakość prania również dobra.  Zapach jest OK",False
+656,"Od lat piorę się tym detergentem, ale ostatnio coraz częściej mamy stęchłe ubrania. Nie mamy tego z żadnym innym detergentem.",False
+657,Dokładnie wyczyść pranie i jest bardzo dobrze tolerowane przez skórę. Zawsze to kupujemy,False
+658,Używam tego detergentu od lat w ubraniach roboczych mojego męża. Są one zawsze bardzo czyste po praniu i ładnie pachną. Stosunek jakości do ceny jest optymalny,False
+659,Jesteśmy bardzo zadowoleni z tego detergentu. Pranie jest ładne i czyste i pachnie bardzo dobrze. Nie ma na co narzekać,False
+660,Dzięki prochowi pranie nabiera pięknych jasnych kolorów. Jest bardzo ekonomiczny i potrzebujesz niewielkiej ilości proszku do prania.,False
+661,"Dobry detergent! Ale proszę, wróć do pudełka! Nie rozumiem, dlaczego przechodzisz z kartonu z powrotem na plastikowe opakowania!",False
+662,"Super detergent, cena i efekt jest świetny, to mój standardowy detergent",False
+663,"Detergent jest wysoce zalecany, nasz kolorowy płyn do prania pozostaje świeży.",False
+664,"Uwielbiam zapach tego detergentu. Nie zbryla się, nie zapycha maszyny, a pranie staje się czyste nawet w niskich temperaturach i pachnie świeżo przez długi czas.",False
+665,Jest dobrym detergentem. Czyści również moje ubrania sportowe.,False
+666,"Niestety, jakiś czas temu zapach został zmieniony i nie na korzyść. Kiedyś bardziej mi się to podobało. Jaka szkoda.",True
+667,"Proszek pachnie niesamowicie dobrze! Wszystkie plamy są usuwane, więc 5 punktów!",False
+668,Od lat myjemy tylko nim bez płynu do płukania tkanin. Nadal jestem przekonany o wawchkrsft i zapachu. Kompatybilność ze skórą jest również świetna. Nie szkodzi naszemu dziecku.,False
+669,"Moc prania i pielęgnacja proszku w kolorze dm są w porządku. Ale i tutaj bardzo brakuje wyczuwalnego zapachu. Niestety, nie ma uczucia ""świeżego prania"".... Ogólnie rzecz biorąc, producenci detergentów wydają się tutaj dużo oszczędzać, co jest bardzo denerwujące.",False
+670,"Dobra wydajność czyszczenia, przyjemny zapach, dobry stosunek jakości do ceny",False
+671,"Używam tego detergentu do kolorowego prania od 30 do 60 stopni, zapach jest przyjemny, efekt prania zadowalający. Oczywiście pomidory, tłuszcz i plamy owocowe nadal wymagają wstępnej obróbki.",False
+672,Produkt ma super wydajność prania. Pranie pachnie dobrze i niezbyt nachalne. Ona również dobrze się czyści.,False
+673,"Witam, wypróbowałem kilka pralek i dodałem inne dodatkowe płyny higieniczne i płyny do płukania tkanin do detergentu, ale pranie nadal śmierdzi po praniu, niestety nie ma znaczenia, ile używasz lub wkładasz do pralki, zawsze śmierdzi!",False
+674,Moje pranie będzie czyste i świeże. Mogę utrzymać małą dawkę,False
+675,"Dobry kolorowy detergent z dobrym efektem czyszczenia. Zapach jest raczej intensywnie świeży, ale nie nieprzyjemny. Nie mogę podzielić się negatywnymi opiniami.",False
+676,"Świetny i dobry, nee bardzo dobry i tani, zawsze myj z denkmit lepiej niż drogie marki",False
+677,"Tylko zalecane, ale proszę ponownie bez celulazyMyje czysto, pachnie dobrze, ale ze względu na zawartą w nim celulazę, bawełniane ubrania są z czasem rozcieńczane, proszę je zostawić",False
+678,Jestem bardzo zadowolony z detergentu. Prawie wszystkie plamy wychodzą bez wstępnej obróbki. Niedrogie i indywidualnie dozowane.,False
+679,Bardzo dobra wydajność prania. Dobry stosunek jakości do ceny.,False
+680,"Przyjemny zapach i dobry efekt mycia, zalecane",False
+681,"Świetny produkt, który pierze pranie zauważalnie czyste.",False
+682,Kupuję ten detergent od wieków i jestem z niego bardzo zadowolony!,False
+683,"Jesteśmy bardzo zadowoleni z wydajności, kupujemy ją wielokrotnie.",False
+684,"Dlaczego zawsze ta celulaza, z czasem przerzedza ubrania, ubrania pękają szybciej, więc po prostu tego nie rozumiem, nie użyję detergentu z celulazą",False
+685,Kupuję ten detergent od lat i jestem bardzo zadowolony ze stosunku jakości do ceny!,False
+686,Używam produktu od lat i jestem z niego bardzo zadowolony. Miałem jednak problemy z nowymi wariantami zapachowymi. Zlepiają się razem i nie rozpuszczają się dobrze.,False
+687,"Proszek do prania pierze nasze pranie naprawdę czysto. Wszyscy jesteśmy zachwyceni. Zapach jest przyjemny, nie tak nachalny. Trzymamy się tego.",False
+688,"Ten detergent jest bardzo dobry. Bardzo dobra wydajność prania, a zapach jest również atrakcyjny! Po co kupować drogi detergent, skoro można dostać bardzo dobry detergent za niewielkie pieniądze! Kup to jeszcze raz i znowu!! Produkty Denk mit są świetne!",False
+689,"Tanie ale nie tanie, myślę, że ma przyjemny ngerucj i pierze wszystko czysto, czy dostanie kolory będzie musiał pokazać z czasem",False
+690,Absolutnie obrzydliwy smród! Bezgraniczna bezczelność sprzedawania czegoś takiego jako detergentu.,False
+691,Pozostawia kolorowe pranie nadal ładne i kolorowe i nadal super moc czyszczenia. Umieść trochę proszku w maszynie Rozpocznij pranie,False
+692,Produkt spełnia moje oczekiwania pod każdym względem i kupię ponownie!,False
+693,"Pranie pachnie dobrze, ale nie za ostro. Będzie czysty, a kolor nie wyblaknie.",False
+694,"Kupuję go regularnie. Robi to, co powinien. Brak pozostałości na praniu",False
+695,"Koszulki zachowują swoje kolory, a efekt prania jest bardzo dobry nawet w niskich temperaturach",False
+696,"Używamy detergentu barwiącego od wielu lat i jesteśmy bardzo zadowoleni. Tylko większa jednostka opakowania byłaby dobra, z dziećmi niestety potrzebujesz dużo detergentu.",False
+697,Detergent pierze tak samo dobrze jak produkty markowe i jest dostępny w rozsądnej cenie dm,False
+698,Jestem bardzo spokojny. Tolerancja jest również dobra. Nie kupiłbym żadnego innego detergentu,False
+699,Dobry stosunek jakości do ceny. Pranie czyste. Rozpuszcza się nawet w niskich temperaturach i krótkich praniach. Pachnie przyjemnie,False
+700,"Wynik prania dobry, zapach dobry. Proszek dobrze się rozpuszcza i nie pozostawia resztek, ani w szufladzie do napełniania, ani w praniu.",False
+701,"Proszek do prania robi to, co powinien, a także pachnie bardzo dobrze.",False
+702,"Po krótkim czasie proszek skleja się, co oznacza, że możliwości dozowania nie są już podawane. Nigdy więcej tego produktu!",False
+703,"Używam tego produktu od 2 lat. Pranie zawsze będzie czyste. Nie używaj dodatkowych odplamiaczy, nadal uzyskuj wyniki 1A. Bez natrętnego zapachu.",False
+704,"Wydajność prania jest pozytywna, plamy, takie jak tłuszcz, muszą oczywiście być jeszcze wstępnie przygotowane. Brak nadmiernego pienienia",False
+705,"Jestem zadowolony z wydajności prania, dobrego dmproduct i niedrogiego.",False
+706,Pra super czysto nawet w niskich temperaturach,False
+707,Zawsze kupuję tanio i te fundusze do tej pory były zadowolone i bezproblemowe.,False
+708,"Ubrania stają się czyste, detergent pachnie przyjemnie i dyskretnie.",False
+709,"Cieszę się, że mogę to wziąć od lat, wydajność cenowa jest odpowiednia",False
+710,"Pranie ma przyjemny i zapach, a moc czyszczenia nie jest wybitna, ale wystarczająca do normalnego lub wyższego zabrudzenia. Do uporczywych plam, takich jak trawa itp. Musisz dodatkowo poddać wstępną obróbkę.",False
+711,"Używam detergentu od lat, jestem bardzo zadowolony",False
+712,"Pachnie dobrze, moc prania jest odpowiednia, bardzo produktywna. Kup ponownie",False
+713,"Ponieważ formuła została zmieniona, detergent śmierdzi wyjątkowo i nawet po praniu pranie nawet śmierdzi. Kiedyś było znacznie lepiej. Dlaczego zawsze coś trzeba zmieniać?.",True
+714,"Produkt spełnia to, co ma być bi bardzo zadowolony, pachnie też bardzo dobrze.",False
+715,"Wszystko super. Czy nadal możesz napisać na nim ""nie wyrywaj się""? D",False
+716,"Uważam, że detergent jest produktywny, lubię zapach, pranie jest czyste.",False
+717,"Stosunek jakości do ceny bardzo dobry, pachnie dobrze kupię ponownie",False
+718,"Proszę myśleć z proszkiem do prania bez celulazyProszę zrobić bez celulazyCelulaza z czasem rozrzedza pranie bawełny, spowoduje to szybsze pękanie prania, w przeciwnym razie bardzo dobry detergent",False
+719,"Super moc prania, przyjemny zapach, dobra kompatybilność ze skórą!",False
+720,Jestem bardzo zadowolona z tego proszku do prania. Za tę cenę chętnie kupię go ponownie!,False
+721,i jest stosunkowo tańszy niż niektóre inne produkty. Działa również w niskich temperaturach. Czego chcieć więcej?,False
+722,"Najlepszy produkt w świetnej cenie, kupiłbym wielokrotnie",False
+723,"Nie sądzę, aby zapachy były skuteczne zarówno z pełnym, jak i kolorowym pudrem. Nachalne i sztuczne. Niestety!",False
+724,"Do prania w jaśniejszych kolorach chcieliśmy po prostu użyć proszku, ponieważ podobno pierze czystszy niż płynny detergent. Nie mogę powiedzieć, czy naprawdę jest lepiej. Ale jeszcze bardziej zabrudzone pranie dla niemowląt i dzieci z pewnością będzie czyste i świeże. Stąd nasza rekomendacja.",False
+725,"Detergent ma świetny stosunek jakości do ceny. Bardzo lubię zapach, a rzeczy stają się super czyste.",False
+726,"Dobry produkt, dotrzymuje obietnic, kupi go ponownie",False
+727,Myje wszystko do czysta i niczego nie blaknie. Ładnie pachnie,False
+728,"Proszek do prania od Denk z praniem czysty i jest interesujący pod względem ceny. Używam go od dłuższego czasu, a pranie jest zawsze świeże.",False
+729,Ten kolorowy detergent jest idealny do prania wszystkich kolorów,False
+730,"Myślę, że produkt jest dobry i kupuję go od lat.",False
+731,"Pra się czyści i jest ekonomiczny. Byłbym szczęśliwy, gdybym zobaczył więcej zrównoważonych opcji prania w tym przedziale cenowym, a może opakowanie, które nie jest wykonane z tworzywa sztucznego.",False
+732,"Celulaza z czasem rozrzedza pranie bawełny, w przeciwnym razie bardzo dobry detergent",False
+733,"Myję się tym detergentem od około 2 lat. Wynik prania jest niezmiennie pozytywny. Nawet z częściowo mocno zabrudzoną bielizną roboczą.Uważam, że zapach jest neutralny i w żadnym wypadku nie przeszkadza.",False
+734,"Po tym, jak woda przedostanie się przez komorę detergentu, inkrustowana pozostałość detergentu zawsze przykleja się do szuflady. Nie byłem z żadnym innym detergentem. Przechowywanie lub przechowywanie normalne, suche. Tak było w przypadku obu dostępnych na rynku odmian.",False
+735,"Właściwie zawsze byłem zadowolony. Niestety, proszek do prania nie jest już wegański. Muszę teraz zapytać o alternatywy",False
+736,Jestem bardzo zadowolony z detergentu. Pra się czysto i ma dobry zapach.,False
+737,Pra tak samo dobrze jak znane marki i jest znacznie tańszy.,False
+738,Produkt spełnia wszystkie moje oczekiwania. Z przyjemnością polecam.,False
+739,"Celulaza z czasem rozrzedza pranie, proszę go pominąć, działa również bez niego, ponieważ usuwanie plam jest niezawodnie usuwane przez dobre enzymy w proszku",False
+740,"Myślę, że detergent jest lepszy niż wiele innych droższych markowych produktów.Jedyną rzeczą, która naprawdę mnie denerwuje, jest plastikowe opakowanie. Czy nie możesz po prostu sprzedać proszku w pudełku? Dlatego tylko 4 gwiazdki.",False
+741,Lubimy kupować ten niedrogi detergent. Moc czyszczenia i zapach przekonują.,False
+742,"Dobry efekt mycia, subtelny zapach. Optymalny stosunek ceny do wydajności.",False
+743,"Proszę bez celulazyPrać czysto, pachnie dobrze, ponieważ celulaza z czasem rozrzedza pranie, proszę zostawić to i tak jest niepotrzebne",False
+744,"Pra się czysto, ładnie pachnie, ale ze względu na zawartą w nim celulazę ubrania z czasem zostaną przerzedzone, proszę je zostawić",False
+745,"Pachnie dobrze, pierze czysto i jest ekonomiczny. Kupiłbym go ponownie.",False
+746,"Sprawia, że prawie każdy brud jest czysty i wizualnie wygięty",False
+747,"Pranie będzie czyste i nie będzie blaknięcia kolorów. Pozostaje przyjemny, subtelny zapach.",False
+748,"Proszę nie zmieniać zapachu, pranie powinno i musi pachnieć dobrze w moich oczach, a także trochę dłużej, gdy jest noszone, drogi zespół DM proszę nie zmieniać! Jeśli chcesz dyskretnie, powinieneś kupić wrażliwy detergent! Jestem z tego bardzo zadowolony",False
+749,"Dobry detergent ALEjaki jest sens tego nonsensu ze zbyt małymi rozmiarami opakowań? Gdzie podziała się duża paczka, która była dostępna kilka miesięcy temu? Niepotrzebny wpływ na środowisko z powodu zanieczyszczenia tworzywami sztucznymi.",False
+750,"Jeśli świeże pranie pachnie lekko chemicznymi aromatami przez kilka dni, myślę, że to w porządku, ale od tygodni ta chemiczna para przenika, nie, dziękuję!",False
+751,"Jesteśmy bardzo przyjemni z zapachem i czyszczeniem. Niestety, duża jednostka opakowaniowa już nie istnieje. To wielka szkoda. Zawsze miałem wrażenie, że kupiłem mniej plastiku.",False
+752,Chętnie kupię ponownie. Produkt spełnia wszystkie moje oczekiwania,False
+753,Detergent ze stosunkowo niewielką ilością toksyn. Świeży zapach,False
+754,Detergent świetnie się pierze i ma przyjemny zapach.,False
+755,"Obecnie detergenty PULVER Color i heavy-duty są dostępne w jednym opakowaniu (20WL. Kiedyś obok znajdowało się większe opakowanie, ale oczywiście zostało zniesione. Dla mnie to krok wstecz, a więc tylko gwiazda!",False
+756,"Ten detergent jest niesamowity! Moja mama też to uwielbia. Ponadto nie jesteśmy na nią uczuleni, co nie jest dla nas oczywistością. Spełnia swoje zadanie i przyjemnie pachnie. Ponadto jest również tani. Czego chcieć więcej?",False
+757,"Używamy detergentu od lat i do tej pory jesteśmy bardzo zadowoleni. Niestety, muszę też powiedzieć, że nowy zapach w ogóle nie działa. To jedyny powód, dla którego teraz kupujemy inny detergent (",False
+758,"Kupiłem ten jako alternatywę dla innej marki domu. Oczyściło się, a zapach nie był ekstremalny. Nie mam pojęcia, co czują inni. Jednak zbrylił się, dlatego już go nie kupuję. Wolałbym trzymać się gut&g******",False
+759,"Lubię używać detergentu od lat i zawsze jestem bardzo zadowolony z efektu prania. Jednak bardzo denerwuje mnie, że jest tylko mała paczka, ponieważ przy większej spowodowałbym moim zdaniem znacznie mniej odpadów.",False
+760,"Niestety wcale nie jest dobry, pozostawia białe plamy na czarnym praniu, a ubrania po prostu nie pachną niczym!!! Nigdy wcześniej nie miałem żadnych problemów, nie mam pojęcia, jaki jest tego powód, prawdopodobnie będzie musiał się zmienić.",False
+761,"Och, nie jestem jedynym, który uważa, że te proszki są złe. Zapach jest po prostu bardzo nieprzyjemny.",False
+762,"kupiłbym raz za razem, bardzo dobry efekt prania",False
+763,"Czyste i promienne pranie, bardzo zadowolony, kupuję ponownie",False
+764,"Kiedyś bardzo lubiłem używać detergentu. Teraz dodano kolejny, bardzo nieprzyjemny, intensywny zapach. Prawie nie mogę tego znieść. Przełączyłem się na inny detergent.",False
+765,"Ponieważ marki mnie nie zawodzą, lubię je kupować raz za razem!",False
+766,Przenikliwy zapach.... Pranie zaczęło ostatnio pachnieć chlorem. Proszę zwrócić stary zapach!,False
+767,Wszystkie plamy i dioe białe pranie super czyste mogę tylko polecić,False
+768,"Zapach jest przenikliwy, obrzydliwy, nie ma żadnej świeżości. Niestety, nie przeczytałem pierwszej recenzji przed zakupem. W przeciwnym razie zawsze mam produkty ""Denkmit"" i jestem z nich zadowolony do tej pory.",False
+769,Biorę tylko detergent. Czyści za bezkonkurencyjną cenę i pachnie naprawdę świeżo,False
+770,Czyste pranie w niskiej cenie. Dobra ochrona kolorów.,False
+771,"Pra czyste. Tani detergent, który robi to, co powinien.",False
+772,"Używam tego detergentu od kilku lat i jestem z niego w pełni zadowolony. Detergent osiąga bardzo dobre wyniki❤️ prania, nie tylko kolory, ale także tekstyliaClear rekomendacja kupno",False
+773,"Wracaj do tego proszku do prania, a także umyj nim 60 stopni prania! Droższe nie sprawiają, że pranie jest czystsze!",False
+774,Kupiono 14 dni temu. Super zapach i czyste kolory,False
+775,"Chciałem spróbować tych detergentów, zawsze brałem Persil wcześniej. Odkąd używam Domol, moje ubrania są śmierdzące! Umyłem go 3 razy detergentem dumol Color, a ubrania zawsze pachną po wyschnięciu!   NIGDY WIĘCEJ!",False
+776,Wciąż najlepsze! Nie musisz ukrywać się przed drogimi markami.,False
+777,"Używam detergentu od lat i mogę go polecić tylko wszystkim, świetna moc prania i kolory wychodzą świetnie",False
+778,"Nie prałem tego wspaniałego produktu przez bardzo długi czas i jestem całkowicie zadowolony = pranie jest ładne i czyste, a pranie pachnie bardzo przyjemnie świeżo ❤️, zawsze traktuję uporczywe plamy mydłem żółciowym lub odplamiaczem Oxi",False
+779,"Swoje kolorowe pranie pram prawie wyłącznie tym proszkiem i nie żałuję ani przez chwilę! Kolory pozostają świeże, zapach subtelny, włókna oszczędzone, a portfel ditto. Wyczyść rekomendację kupna ode mnie.",False
+780,"Proszę zrobić cały proszek do prania Domol bez celulazyProszę zrobić bez celulazyCelulaza z czasem rozrzedza pranie bawełny, więc pranie rozkłada się szybciej, w przeciwnym razie bardzo dobry detergent",False
+781,"Celulaza z czasem rozrzedza bawełniane rzeczy, proszę pominąć enyzmy inaczej dobry i świetny zapach",False
+782,"Dzisiaj po raz pierwszy użyłam plam z trawy, plam z ziemi, kredek, sosu pomidorowego, dżemu wiśniowego na naprawdę brudnym kolorowym praniu... Ubrania dziecięce latem! Wszystko zgasło. Do góry!!!",False
+783,Używam tego detergentu od bardzo dawna i jestem bardzo zadowolony,False
+784,Detergent kolorowy firmy Domol ma pierwszorzędny stosunek ceny do wydajności. Jestem w pełni zadowolony!,False
+785,Od lat piorę tym detergentem Color i jestem bardzo zadowolony z rezultatu.,False
+786,"Produkt pierze pranie do czysta, jeśli nie ma plam z czerwonego wina lub trawy. Niestety, nie podoba mi się ten zapach tak bardzo.",False
+787,"Od kilku lat używam proszku do prania Ecover zarówno jako uniwersalnego detergentu, jak i",False
+788,"Podoba mi się, że ten produkt jest przyjazny dla środowiska, zapach jest bardzo świeży i spełnia swój cel czyszczenia. Jednak opakowanie jest katastrofą, ponieważ ogromna ilość produktu jest rozprowadzana po całej nakrętce pudełka.",False
+789,"Używam go od lat. Jestem zachwycony. Weganin bez odpadów z rzeźni, przyjazny dla środowiska, bez telewizora, dobry zapach i wynik. Płyn do płukania tkanin nie jest konieczny. Myję nim wszystko z wyjątkiem drobnych rzeczy. Wskazówka: Proszek jest lepszy niż płynny WM.",False
+790,"Zapach lawendy nie jest moim ulubionym, ale ci, którzy go lubią, mają go dużo. Zapach lawendy jest na nim zapisany, zapach lawendy jest w nim.",False
+791,"Podoba mi się produkt, a to opakowanie jest wygodne, ponieważ bezpieczniejsze w transporcie i lepsze w obsłudze w domu",False
+792,"Proszek do prania jest naprawdę świetny, nie zbryla się, ma subtelny zapach, pierze super czystą i jasną biel. Zapach jest polecany osobom, które nie lubią ciężkich i perfumowanych zapachów.",False
+793,Pod względem skuteczności ten drogi proszek do prania nie jest tak naprawdę lepszy od tańszych.,False
+794,"Ten detergent może być używany do każdego prania. Jest znacznie droższy niż normalne środki głównego nurtu, ale jest o wiele bardziej znośny dla mnie jako alergika. Zapach lawendy nie jest zbyt intensywny. Pranie pachnie bardzo przyjemnie.",False
+795,"Mam bardzo twardą skórę i muszę powiedzieć, że jestem zachwycona. Prawie wszystkie podrażnienia zniknęły, zapach jest świetny, a trwałość jest udowodniona. Kupię go ponownie",False
+796,Używamy tego proszku ze względu na naszą oczyszczalnię ścieków w ogrodzie. Dzięki temu działa znacznie bardziej bezawaryjnie. A proszek również świetnie się myje. Nawet zapach prania jest bardzo przyjemny i trwały.,False
+797,"Bardzo zabawny zapach nie ma to jak lawenda! Szkoda, właściwie chciałem wykupić abonament, robi to, co powinien, ale zapach jest naprawdę nieprzyjemny, powinien był najpierw wziąć małą paczkę!",False
+798,"Zamówiłem ten proszek do prania, ponieważ zapach lawendy był tak chwalony. Po Persil lawendy nie można już znaleźć. Pranie pachnie raczej neutralnie.. Wydajność prania dobra do ok.. W przeciwnym razie zły zakup",False
+799,"Bardzo dobry proszek do prania, punkowa dedukcja w plastikowym opakowaniu, oczekuję od eko detergentu, że jest zapakowany w papier.",False
+800,Wspaniały,False
+801,"Lubię myć tym detergentem raz za razem. Moje pranie nigdy nie jest bardzo brudne, po prostu noszone normalnie / spocone, ale bez względu na to, czy ubrania w temperaturze 30 ° C lub ręczniki w 60 ° C wszystko staje się czyste i pachnie dobrze.",False
+802,"Kupujemy tylko produkty Ecover, jesteśmy zadowoleni od lat. Tym razem niestety 3 z 4 paczek nie są szczelne, więc wszystkie wracają. Tym razem ocenię opakowanie!. Nadal kupuj rekomendację",False
+803,"Najważniejszą rzeczą jest to, że nie jest testowany na zwierzętach, jeśli jest również super dobry, świetny. Raz za razem z przyjemnością.",False
+804,"Dobry produkt, ładny zapach, dobry stosunek jakości do rozmiaru!",False
+805,"Używamy prawie wszystkich produktów Ecover, ale nie jestem tak zadowolony z proszku. Na ciemnym praniu często pozostawały lekkie plamy, a szkoda. Teraz po prostu wracam do płynnego detergentu tej samej marki",False
+806,"Myślę, że ten produkt jest bardzo dobry. Ponadto nie obciążasz zbytnio natury podczas prania. Jestem przekonany do wszystkich produktów tej marki. Gorąco polecam",False
+807,"Z powodu reakcji alergicznej na Persil and Co. używamy tego i wszystko jest w porządku. Jednak wysyłka Amazon jest problematyczna. Opakowanie produktu zostało rozbite, a proszek unosił się w opakowaniu. To zrobiło się niezły bałagan, kiedy go otworzyłem. Dlatego tylko 4 gwiazdki.",False
+808,"Używamy tego detergentu od dłuższego czasu i jesteśmy bardzo zadowoleni. Robi to, co powinien, czyli czyści pranie. Ponadto pranie ma delikatny zapach, który szczególnie lubimy. Trzymamy się tego i naprawdę możemy polecić ten proszek do prania.",False
+809,"Jestem bardzo zadowolony z towaru. Niestety musiałem posprzątać kuchnię po otwarciu opakowania, ponieważ proszek był wszędzie w pudełku itp.",False
+810,"Naprawdę dobry produkt dla skóry wrażliwej, opakowania w tej ofercie po prostu brakuje. Dostarczany w trudnej w użyciu torbie bez szufelki w zestawie",False
+811,Pachnie bardzo przyjemnie. Nasz detergent przyszłości!,False
+812,"który nie ma ani odorantów, ani innych treści alergizujących, przynajmniej tak jest w przypadku mojej żony. Wypróbowała (prawie) wszystkie detergenty na rynku i przysięga na Ecover. Produkt jest nieco droższy niż inne, ale nadal jest wyraźną rekomendacją kupno.",False
+813,Pachnie neutralnie po praniu i zbyt drogie jak na mój gust. .. Ale poza tym dobrze.,False
+814,"Bardzo dobry detergent. Ze względu na koncentrat trzeba używać mniej, a zapach jest bardzo subtelny i przyjemny. Fakt, że jest to czteropak, sprawia, że wiele powtarzających się zakupów jest niepotrzebnych.",False
+815,Zamówiłem ten detergent do naszego przedszkola. Używamy go już od jakiegoś czasu i jesteśmy z niego bardzo zadowoleni.,False
+816,"Używam połowy zalecanej ilości i doskonale się myje. lepsza niż wersja ""zero"".. Dlaczego muszę pisać więcej ? Pięciogwiazdkowa nuta mówi sama za siebie. Zatrzymaj to, Amazon",False
+817,"Pranie będzie super białe, przynajmniej takie mam odczucie. Do tej pory używałem Persila. Jakoś mi się udało. wrażenie, że pranie świeci bardziej.",False
+818,"Świetnie, bez mikroplastików, tak trzymać! Byłoby dobrze, gdyby było więcej produktów ecover w większych ilościach, co również pozwoliłoby zaoszczędzić opakowania!",False
+819,"Używam tego detergentu od lat. Pierze tak czysto jak konwencjonalnie, pachnie przyjemnie powściągliwie lawendą i jest ekonomiczny w użyciu.",False
+820,"Używamy detergentu od lat. Jest bardzo ekonomiczny i zapewnia ""mimo eko"" bardzo dobre efekty prania nawet w gospodarstwie domowym z maluchem.",False
+821,Świetnie bez dodatków zapachowych i innych. Nadal pachnie przyjemnie i nie powoduje żadnych. Choroby wywołujące alergie. Efekt prania doskonały Wszystko staje się czyste i czyste,False
+822,"Jestem zadowolony z detergentu od lat, bardzo go lubię, musiałem go kupić przez Internet, ponieważ jestem niezadowolony ze sklepu ze zdrową żywnością, w którym go kupowałem",False
+823,Cena i jakość świetnie.,False
+824,"W przeciwieństwie do innych eko-detergentów (Sodasan), pranie można prać nawet w niskich temperaturach bez pozostałości detergentu i, co gorsza, czyścić. Czego chcieć więcej!",False
+825,"Obecnie mam detergent w mojej subskrypcji oszczędnościowej. Wszystkie ubrania będą bardzo dobrze czyste. Proszek już wychodzi z opakowania. przed otwarciem. Również na życzenie. Żadnej krótkoterminowej strategii, paczka. zmieniać.",False
+826,"Detergent jest szczególnie odpowiedni przy problemach skórnych (np. alergiach), ma wysoką moc mycia i jest ekonomiczny w użyciu.",False
+827,"Jestem zachwycona, chciałam najpierw wypróbować, ponieważ w ogóle nie znałam marki, a teraz proszek do prania stał się moją marką.",False
+828,"Witam. Myślę, że ten detergent jest naprawdę świetny, ponieważ cierpię na neurodermitis, tj. Mam problemy skórne. Prane produkty do prania nie swędzą na skórze jak inne chemiczne.",False
+829,"Lepiej nie używać detergentu niż przyjaznego dla środowiska detergentu, który nie usuwa plam. Ponieważ już sporo oszczędzasz :))",False
+830,"Niestety pranie pachnie dość neutralnie. Nie zauważyłem zapachu lawendy, szkoda",False
+831,jest używany od lat. .. .. . . . . . . . . . . . . .,False
+832,"Proszek jest bardzo drobny i bardzo łatwo staje się grudkowaty, co zatyka szufladę proszku do prania. Wcale nie jestem przekonany do wydajności prania. Z pewnością najgorszy ekologiczny proszek do prania, jaki kiedykolwiek jadłam!",False
+833,"To mój nowy ulubiony detergent. Bardzo przyjemnie pachnie lawendą. Mam bardzo wrażliwą skórę i nie mogę kupić zwykłych detergentów. Jest to dobrze dopasowane, nawet dla skóry wrażliwej. Pranie też pachnie!. Jestem podekscytowany.",False
+834,"Dobry detergent o przyjemnym zapachu. Zawsze pierzę pranie w temperaturze 40 stopni i pranie zostało wyczyszczone tym detergentem. Cena jest nieco droższa, ale mogę z tym żyć.",False
+835,"Super ekonomiczny, a jednocześnie czysty i przyjemny dla wrażliwości skóry.",False
+836,"To trochę dziwne, ale po umyciu zapach zniknął. Dobra wydajność prania",False
+837,"Proszek do prania jest świetny, tylko dostawa pozostawia wiele do życzenia.",False
+838,"Przyjemny i jednocześnie subtelny zapach jest po prostu idealny. Wydajność prania jest świetna. Jedynym minusem jest plastikowe opakowanie. Szkoda, inaczej byłyby wszystkie gwiazdy",False
+839,Jestem bardzo zadowolony,False
+840,"Osobiście bardzo dobrze toleruję ten detergent, zapach jest bardzo przyjemny i dyskretny.",False
+841,"Dlaczego tak długo kupowałem drogi detergent z Ameryki? Teraz trafiłem do Ecover przez przypadek i tu zostaję. Świetny subtelny zapach, bardzo ekonomiczny (nie zawsze jest tak ogromny pakunek), a pranie jest bardzo czyste. Naprawdę duża klasa",False
+842,"Na początku jestem ostrożnym optymistą. Przyjemny zapach, pranie jest czyste i świeże. Negatyw opakowania, ponieważ nie można go ponownie zamknąć. Zobaczmy, czy detergent pobiera wilgoć.",False
+843,Kupię ponownie i ponownie,False
+844,"Proszek do prania jest dostarczany w ""kartonowym pudełku"" i dlatego nie jest plastikiem. Uważam, że efekt czyszczenia (30 ° C) jest dobry, a zapach przyjemny. W przeciwieństwie do innego produktu producenta, nie pozostawia śladów na ciemnej odzieży. Będę nadal korzystać z tego.",False
+845,"Jeśli szukasz ekologicznego detergentu, możesz uzyskać do niego dostęp tutaj. Efekt prania nie budzi zastrzeżeń, a pranie pachnie świeżością.",False
+846,"Podoba mi się produkt, dobrze pierze pranie i odpowiednio również świeże.",False
+847,"Jak dotąd, najlepszy detergent...",False
+848,dobra jakość i przyjemny zapach,False
+849,"Super detergent. Czyści zgodnie z życzeniem i pozostawia przyjemny zapach, ale znika, gdy tylko pranie jest suche. Plamy są dobrze usuwane.",False
+850,"Proszek do prania ma silną moc prania, szczególnie korzystną dla małych dzieci. Pachnie przyjemnie, ale niezbyt nachalnie. Pomimo braku płynu do płukania tkanin, ubrania są przyjemnie ""miękkie"" po praniu. Kolejnym dużym plusem jest ekologiczne przetwarzanie.",False
+851,"Używamy proszku do prania Ecover od kilku lat i nadal jesteśmy zadowoleni pod względem zapachu i świeżości. To, co podoba mi się w dużym opakowaniu, to to, że jest zapakowany tylko w karton. Nie ma na co narzekać ;)",False
+852,"Zdecydowanie nie pachnie lawendą, szkoda!",False
+853,"Teraz ponownie kupujemy detergent. Uważamy, że kartonowe opakowanie jest dobre, a pranie jest ładne i czyste. Zapach jest również przyjemny i niezbyt nachalny na praniu po praniu. Wyraźna rekomendacja kupna.",False
+854,"Niestety, po każdym praniu pozostaje gruba bryła proszku. Więc już go nie kupię.",False
+855,"Najlepszy detergent. Próbowałem wielu. Nie pachnie ostrym zapachem, a pralka nie była tłusta od tego czasu (ale (nigdy) nie używaj płynu do płukania tkanin).",False
+856,"Niestety, zawartość opakowania z nie do końca tanim detergentem była wszędzie w pudełku. W związku z tym opakowanie detergentu wyglądało tak, jakby doświadczyło tsunami.",False
+857,Ekonomiczny w zużyciu. Neutralny zapach. Dobry efekt prania.,False
+858,Super,False
+859,"Testujemy detergent od ponad roku i jesteśmy z niego zadowoleni. Jeśli Ecover jest naprawdę bardziej ekologiczny, detergent jest naprawdę świetny. (Weryfikacja tego nie jest zadaniem konsumenta).",False
+860,Używam go od wielu lat i jest niesamowity. Cała rodzina uwielbia ten zapach. Dla dzieci pachnie jak w domu,False
+861,"Używam proszku do prania od jakiegoś czasu, na początku zawsze kupowałem 1,2 kg, wszystko było dość szybko. Nie mam na co narzekać. Nie zbryla się, pranie jest czyste i 😊 lubię zapach.",False
+862,"Duży rozmiar jest w kartonowym pudełku, bez plastiku, który lubię. Zapach nie jest zbyt silny. Mam wrażenie, że mydli się lepiej niż wiele innych proszków do prania (mamy twardą wodę).",False
+863,Zadowolony.,False
+864,"Świetne składniki roślinne, biodegradowalne. Przyjemny, subtelny zapach. Pranie będzie ładne i czyste nawet w niskich temperaturach.",False
+865,"W Czarny Weekend nabyte i muszę powiedzieć, że świetne. Wydajność prania zapachowego świetna. Ekologiczny",False
+866,"Jest to zdecydowanie dobry proszek do prania Moje pranie jest zawsze dobrze czyste. Jedyną wadą mojego punktu jest to, że jest dość bezwonny. Ale bardzo lubię zapach świeżo wypranego prania. Opakowanie utrzymuje się przez bardzo długi czas i myje, ale jak powiedziałem, bardzo dobrze wszystko czyste.",False
+867,dobry produkt,False
+868,Bezzapachowy ekologiczny proszek do prania. Skutecznie neutralizuje zapachy oraz usuwa brud i brud.,False
+869,"Wspaniały detergent, aby zaoszczędzić trochę portfela z innym detergentem. Szczególnie doskonały do ręczników.",False
+870,"Przyjemny zapach lawendy jest dyskretny. Pranie będzie czyste. Proszek do prania jest bardzo ekonomiczny. Tylko ci, którzy mają nadzieję na silnie pachnącą bieliznę, mogą być rozczarowani.",False
+871,"Jestem nim zachwycona, pachnie bardzo naturalnie, trochę jak lawenda. Brak porównania ze zwykłymi detergentami w supermarketach. Ponadto bardzo dobrze się pieni i bardzo dobrze czyści pranie. Miej subskrypcję Spiżarni i niczego nie żałuj",False
+872,"Pierzy starannie, subtelnie zapach, bez plastikowych opakowań... całkowicie zadowolony i to od lat!!",False
+873,"Najlepszy detergent jaki do tej pory miałem. Odkąd go używam, nie potrzebuję już płynu do płukania tkanin. Nie ma nic lepszego. Pranie ma przyjemny zapach, ale nie przesadzony.",False
+874,"Bardzo dobra moc prania, przyjemny świeży zapach, a jednocześnie dyskretny, jak zawsze przekonujący. Świetny produkt, wysoce polecany jako ekologiczny detergent.",False
+875,"Więc to świetny produkt, to lekki, subtelny zapach 😇 lawendy .... To w porządku dla mnie i moich psów. Inne detergenty są zawsze bardzo perfumowane, niezbyt dobre dla moich woofies .... Dziękuję bardzo",False
+876,"Wystarczy do codziennego prania, wszystko jest czyste, czy to kolorowe, czy białe, zapach jest również przyjemnie subtelny, nie tak perfumowany jak w przypadku innych, nigdy nie był niezadowolony i miejmy nadzieję, że chronisz środowisko....",False
+877,"Ten proszek do prania jest teraz moim drugim ulubionym obok żaby. Przyjemny zapach, pranie jest czyste i co najważniejsze dla mnie osobiście, produkt jest nie tylko przyjazny dla środowiska, ale nie przeprowadzono dla niego testów na zwierzętach. Gorąco polecam!",False
+878,"Produkt robi to, co obiecuje.",False
+879,"Ecover jest nie tylko eko, ale także dobrze się pierze! Jest to również ważne podczas prania. Istnieje również detergent do prania białego, ten jest przeznaczony do prania kolorowego (bez wyrównywania). W międzyczasie jednak kupuję wersję koncentratu obu.",False
+880,"Czego chcieć więcej. Pomimo ekologicznej jakości, wszystko jest ładne i czyste, a kiedy już przyzwyczaisz się do subtelnego zapachu, nie możesz znieść innych proszków do prania tylko ze względu na ich zapach. Jestem uzależniony i uzależniony, prawdopodobnie zostanę z marką bardzo dłuuugą :)",False
+881,Proszek do prania dobrze pierze i pozostawia subtelny zapach lawendy w praniu po praniu. Podczas przechowywania w dość wilgotnym pomieszczeniu nic nie zbryla się w opakowaniu.,False
+882,"jednak w przeciwieństwie do innych detergentów, na moim praniu zawsze tworzyły się pozostałości, więc nie będę używać starego, dobrego detergentu ALDI. Szkoda, bo chciałbym zrobić coś dla środowiska w międzyczasie (to też kwestia kosztów).",False
+883,"Świetny detergent, a także (miejmy nadzieję) dobry dla środowiska! Zapach jest przyjemnie subtelny (nie lubię mocno perfumowanego prania) i jak dotąd wszystko stało się czyste. Kolory są również dobrze zachowane.",False
+884,"Idealne dla środowiska i Twoich ubrań. zamówi ponownie.. nie jest tani, ale nadal dobry produkt, więc kupię ponownie",False
+885,Ładny zapach i zdrowa kompozycja,False
+886,"Cieszę się, że mogę teraz kupić ten dobry, przyjazny dla środowiska i ekonomiczny detergent na zasadzie subskrypcji. Nie mam samochodu i teraz nie muszę już ciągnąć. Znam Ecover od wielu lat i jestem z niego zadowolony.",False
+887,"Jeśli się zaangażujesz, musisz wiedzieć, że może być konieczne dodanie wybielacza i odplamiaczy. W przeciwnym razie bardzo dobry detergent, który jest również bardzo niedrogi dla eko-proszku.",False
+888,"Proszek do prania jest naprawdę świetny, tylko dostawa jest wadliwa po raz drugi, więc proszek spływa do pudełka i z pudełka, szkoda",False
+889,"Ponieważ mam małe dzieci w domu, chciałbym użyć proszku do prania, który ma jak najmniej chemii. Ecover jest dobrze tolerowany przez dzieci, ubrania pachną neutralnie i stają się czyste. Jestem zadowolony.",False
+890,De verpakking zou 4 x 1.2 kg moeten bevatten. Het był maar 1 doos van 3 kg.,False
+891,"Ze względu na wiele pozytywnych recenzji kupiłem ten detergent. Pachnie przyjemnie. Wydajność prania dobra. Ale niestety pozostałości z detergentu zawsze pozostają w pralce. Ponieważ nie możemy użyć płynu do płukania tkanin, pranie jest dla mnie o wiele za trudne. Jaka szkoda!",False
+892,"Bez toksycznych zapachów, to świetnie. Mój nos jest szczęśliwy, podobnie jak moje sumienie. Polecam wszystkim ludziom.",False
+893,"Detergent z ECOVER dokładnie czyści pranie, ma cytrynowy świeży zapach, bardzo neutralny i nie nachalny. Rozpuszcza się całkowicie w maszynie nawet pod kątem 30 stopni.",False
+894,"Pochodzi w dużym pudełku, trwa długo. Pachnie dobrze, wszystko jest czyste jak zwykle wraz z Calgonem jest na mojej liście subskrypcji oszczędności",False
+895,"Chociaż substancje, na które jestem uczulony, nie są drukowane, zareagowałem na nie niezwykle mocno. Ponadto cena jest już bardzo bezczelna.",False
+896,"Pachnie świetnie, jest produktywny i na pewno łagodniejszy do prania dla niemowląt niż Lynor, gdzie prawie zdmuchuje cię z ostrego zapachu. )",False
+897,Używam tego detergentu od dłuższego czasu i jestem bardzo zadowolony z efektu prania!!! Zapach jest łagodniejszy niż w przypadku konwencjonalnych detergentów.,False
+898,"Niczego nie brakuje w porównaniu do ""markowych produktów"". W ramach subskrypcji na ponad rok.",False
+899,"Prawdopodobnie zdarzyła się tu pomyłka, łotrzyk, który źle o tym myśli. 15,89 € za 3 kg daje 3,31 € / kg na Amazon, co byłoby lepsze niż wszystkie inne oferty detergentów. Z prawidłowym 5,30 € / kg nawet znacznie gorzej niż wszystkie inne.",False
+900,"Proszek do prania jest naprawdę świetny. Jednak paczka przybyła całkowicie zburzona. Proszek wyciekł, stał się wilgotny i zbrylony. Opakowanie 3 kg nie jest zalecane. Nie kupiłbym ich ponownie. Jaka szkoda.",False
+901,"Detergent dotarł dobrze i bezpiecznie zapakowany. Przetwarzanie czyste, wyższa jakość niż oczekiwano. Zalecane w cenie.",False
+902,"Detergent jest super przetworzony. Wygląda na wysokiej jakości i solidny. Świetna jakość! Znacznie lepiej niż oczekiwano! Jestem zachwycony. Cena, wydajność, rozsądna.",False
+903,"Kupione po raz pierwszy i ostatni. Pra czyste, ale bez zapachu po praniu. Jaka szkoda.",False
+904,Proszek do prania Frosch Color pierze się czysto i jest nadal dość przyjazny dla środowiska. Czego chcieć więcej?,False
+905,Pra czyste i jest przyjazne dla środowiska. Ładnie pachnie.,False
+906,"Niestety, proszek do prania okazał się bardzo zły, w ogóle nie pachnie, a pranie również nie jest czyste. Niestety absolutna klapa",False
+907,"Pranie będzie dobrze czyste, tylko subtelny zapach, nie tak intensywny. Dobrze tolerowany nawet przez wrażliwą skórę. Rozpuszcza się całkowicie w wodzie, nie pozostawia resztek proszku na ubraniach po praniu. Używam produktu od wielu lat.",False
+908,Detergent bardzo dobrze się myje i pozostawia przyjemny zapach. Będę go nadal używać.,False
+909,"Dyskretny zapach, bardzo dobre właściwości myjące",False
+910,"Od lat entuzjastycznie używam żabiego detergentu. Chroni kolory, jest ekonomiczny w zużyciu, usuwa brud i plamy z materiałów oraz chroni środowisko.",False
+911,Pachnie bardzo dobrze! Ostrożnie usuwa wszystkie plamy.,False
+912,Jestem całkowicie zadowolony z tego produktu ... Pranie pachnie bardzo dobrze ...,False
+913,"Polecili mi go rodzice z małymi dziećmi i wrażliwą skórą, więc teraz używam go dla mojego potomstwa.",False
+914,Produkt spełnia moje oczekiwania pod każdym względem,False
+915,Do tej pory moje pranie zostało czyste. Jestem bardzo zadowolony,False
+916,"Detergent mnie przekonuje, chroni środowisko",False
+917,Nie używam już niczego innego. Jestem więcej niż zadowolony.,False
+918,"Kup detergent raz za razem. Pranie super czyste, dobrze dociera i jest super tolerowane. Mam bardzo wrażliwą skórę i nie mam problemów z produktami Frosch",False
+919,"Produkt jest wysoce zalecany, jest przyjazny dla środowiska, a także dobrze pachnie, pranie będzie czyste, a kolory pozostaną piękne przez długi czas",False
+920,"Spełnia moje oczekiwania. Pyszny zapach, bez plastikowych opakowań i pra super czyste!",False
+921,"Pachnie dobrze, a pranie staje się czyste. Jestem z tego bardzo zadowolony.",False
+922,"Detergent pachnie bardzo dobrze, a także w pełni spełnia moje oczekiwania pod względem mocy prania nawet przy 20 stopniach",False
+923,"Dla mnie najlepszy detergent na rynku. Przyjemny zapach. Z intensywności, dla mnie, absolutnie wystarczające!",False
+924,Dobre uczucie robienia czegoś dla środowiska jest dobre i można je dozować oszczędnie. Tiptop!,False
+925,"Pra się prawidłowo, czyści i chroni środowisko",False
+926,"Dobra kompatybilność ze skórą i przyjemny, subtelny zapach. Aby mnie polecić, kupuję raz za razem.",False
+927,"Używam go od dawna, przyjazny dla środowiska, świetny zapach i dobry do prania!",False
+928,"Proszek do prania bardzo dobrze usuwa normalne zabrudzenia i pachnie przyjemnie świeżo i na szczęście niezbyt mocno. Do tej pory sprawdził się bardzo dobrze, nawet jeśli nie jest zbyt produktywny.",False
+929,Bardzo dobrze czyści. Może być używany oszczędnie. Zapach jest bardzo subtelny. Używam go od lat!,False
+930,"Detergent, ekologiczny, nawet opakowanie, a moja skóra już nie swędzi, gdy noszę ubrania po raz pierwszy! Kupuję go od lat i jestem bardzo zadowolony.",False
+931,"Jestem bardzo zadowolony z proszku do prania żaby. Dobrze, że nie ma plastikowych opakowań.",False
+932,"Ekologiczny, bez sztucznego, nieprzyjemnego zapachu. Robi to, co powinien robić",False
+933,"Produkt jest bardzo dobry, zmywa większość plam, nie będąc agresywnym na skórze. Mydło galusowe powinno być nadal wstępnie traktowane. Poza tym nigdy nie mieliśmy żadnych poważnych problemów ani niczego podobnego i jesteśmy bardzo zadowoleni z produktu",False
+934,Kupowanie produktu przez długi czas bardzo mnie przekonało,False
+935,"Proszek do prania absolutnie spełnia moje oczekiwania! Jest również wolny od mikroplastiku! Kciuk w górę, to jest miejsce, w którym myślimy przyszłościowo. Nawet po 2 tygodniach pranie nadal pachnie przyjemnie. Na pewno zostanie kupiony ponownie. Nie do pobicia w połączeniu z płynem do płukania tkanin.",False
+936,"Lekki, nieinwazyjny zapach. Doskonały do mikrofibry",False
+937,"Ponieważ proszek do prania Nature od DM niestety nie jest już dostępny, szukałam dobrej alternatywy. Jestem zadowolony z koloru proszku do prania granatu. Ubrania będą czyste, pachną przyjemnie i niezbyt mocno. Produkt i opakowanie bez plastiku to wielka zaleta.",False
+938,Ekonomiczny w użyciu. Przyjazne dla środowiska opakowania kartonowe. Bez plastiku.Ubrania czyste i przyjazne dla kolorów.,False
+939,"Uważam, że moc prania, a także zapach są bardzo przyjemne.",False
+940,"Produkt spełnia moje oczekiwania. Pachnie przyjemnie, a opakowanie jest solidne i bardzo ważne dla środowiska tekturowego.",False
+941,"Podoba mi się produkt, chociaż mógłby być nieco mocniejszy.",False
+942,"Jestem bardzo zadowolony z proszku do prania. Ogólnie rzecz biorąc, moim zdaniem produkty Frosch są bardzo przekonujące. Pranie będzie czyste, ładnie pachnie. Zapach jest bardzo subtelny, co osobiście uważam za dobre.",False
+943,"Zapach jest bardzo przyjemny, ale nie nachalny. Wynik prania bardzo dobry nawet w niskich temperaturach. Z różnych wegańskich detergentów, czy to w proszku, czy w płynie, myślę, że jest najlepszy. Kupiłem go wiele razy i kupię go wielokrotnie.",False
+944,"Używam detergentu od 1 roku i jestem bardzo zadowolony. Wspaniale się myje, a zapach jest subtelny.",False
+945,"Pranie będzie czyste. Puder również nie zbryla się, a zapach jest przyjemnie subtelny.",False
+946,"Pachnie dobrze, łatwo dozować, dobry wynik prania",False
+947,Produkt idealnie spełnia moje oczekiwania!!,False
+948,Bardzo dobry detergent. Pranie staje się czyste i ma dobry zapach,False
+949,Detergent spełnia swoje zadanie.  Pranie staje się czyste i pachnie przyjemnie. Zalecany dla 4 dzieci i przyjazny dla skóry.,False
+950,"Produkt spełnia moje oczekiwania. Pranie pachnie przyjemnie świeżo, ale nie jak detergent, jak w przypadku wielu innych producentów.",False
+951,"Dobra moc mycia. Myślę, że to świetnie, że karton jest poddawany recyklingowi. Temperatura prania do 60 stopni jest absolutnie wystarczająca.",False
+952,"Proszek do prania firmy Frosch robi to, co powinien i nie zbryla się. Zapraszam do zakupu ponownie.",False
+953,"Detergent robi to, co powinien, pranie staje się czyste nawet w temperaturze 30° i pachnie przyjemnie świeżo.",False
+954,Produkt spełnia moje oczekiwania i jest odkupywany.,False
+955,Jestem w pełni zadowolony z produktu. Pranie staje się czyste i pachnie dobrze,False
+956,"świetna jakość.  Ubrania pachną dobrze nawet przez miesiąc po praniu.  jednym słowem, NAJLEPSZY.",False
+957,Kupuję ten detergent od Lenor dopiero od dłuższego czasu i jestem w pełni zadowolony.,False
+958,"Najlepszy detergent, jaki istnieje, kupię go raz za razem.",False
+959,"Na pewno kupię go ponownie, wydajność cenowa w rozmiarze jest jak prezent! Pachnie super przyjemnie i nie pozostawia białych śladów na ubraniach.",False
+960,Detergent pachnie naprawdę dobrze i świetnie czyści pranie.,False
+961,Pachnie świetnie. Dobra jakość. Duża paczka. Chętnie zrobimy to ponownie.,False
+962,"Właściwie nie jestem fanem pachnącego prania, powinno po prostu pachnieć świeżo umytym. Ale ten jest bardzo niepozorny i nadal pachnie świeżo i niezbyt nachalnie.",False
+963,Świetny detergent kupię 👍👍👍 go ponownie,False
+964,Mogę tylko polecić. Wcześniej miałem strąki. I wróciłem do proszku. Moim zdaniem jest lepiej. I pachnie intensywniej,False
+965,"Bardzo dobry detergent o zapachu. Odkąd go użyłem, nie potrzebuję już płynu do płukania tkanin.",False
+966,Używam go od zawsze i uwielbiam ten zapach. Dzięki płynowi do płukania tkanin pranie pozostaje świeże na zawsze,False
+967,"Detergent pachnie bardzo dobrze, a pranie jest naprawdę czyste. Gorąco polecam",False
+968,Używam go od miesięcy i jestem bardzo zadowolony.,False
+969,Detergent pachnie świetnie i przyjemnie.  Zawsze używałem ariel w przeszłości i byłem z nim w pokoju.  Spełnia swoje zadanie,False
+970,"Ten produkt pachnie tak dobrze, że kupuję go raz za razem...",False
+971,"Robi to, co ma robić i pachnie bardzo ładnie, mogę go polecić",False
+972,"Czyści pranie naprawdę dobrze i pachnie wspaniale, równomiernie lub płynem do płukania tkanin lub dodatkowym",False
+973,"Lubię używać proszku do prania, zapach utrzymuje się długo, a pranie staje się czyste. Czego chcieć więcej?",False
+974,Moim zdaniem najlepszy kolorowy detergent w postaci proszku. Bardzo pachnący,False
+975,"Uwielbiam ten detergent. Niestety, prawie nie ma już gdzie kupić. A jeśli go znajdziesz, to tylko w małych rozmiarach. A w 4-osobowym gospodarstwie domowym z dwoma psami potrzebujesz dużo detergentu",False
+976,"Duża paczka zamówiona online jest świetna, jeśli nie zawsze chcesz przeciągać małe pojemniki do domu. Uwielbiam ten zapach tego detergentu! I wszystko też będzie czyste",False
+977,Po prostu uwielbiam ten zapach. A także chciał spróbować czegoś nowego.,False
+978,"Uwielbiam ten detergent od zapachu i czystości podczas prania, zamawianie w sklepie internetowym jest dla mnie koniecznością!",False
+979,"Przez lata myłem płynnym detergentem, a teraz przerzuciłem się na proszek i mogę go tylko polecić. Wreszcie pranie pachnie świeżo umytym, a płyn do płukania tkanin można uratować. Teraz pranie ubrań jest zabawne",False
+980,"Pachnie świetnie, pranie zawsze jest czyste nawet w niskich temperaturach.",False
+981,Produkt całkowicie mnie przekonał. Kupiłbym go ponownie w dowolnym momencie.,False
+982,"Uwielbiam ten detergent, który jest bardzo przyjazny dla skóry, szczególnie dla moich dzieci, a inne marki powodują tylko podrażnienie skóryPonieważ myję Lenor, moje dzieci mają świetną skórę",False
+983,Lubię się nim myć raz za razem. I pachnie też świetnie,False
+984,"Bardzo duże opakowanie z perfumami do prania i płynem do płukania tkanin razem, sprawia, że ciemne pranie pierze w mgnieniu oka. Nie muszę ustawiać dodatkowego programu do płukania i kupować płyn do płukania tkanin extra.this oszczędza energię elektryczną i czas, z jednym dozowaniem wszystko włączone.",False
+985,Produkt spełnia moje oczekiwania pod każdym względem. Chętnie kupię go ponownie.,False
+986,"Więc to pachnie jak mydło twarogowe, a po praniu nie pachnie tak źle, ale po wyschnięciu pranie pachnie naprawdę obrzydliwie, jakby nie było prane. Ariel&Persil są nie do pobicia, przepraszam.",False
+987,"Najprostszy sposób dozowania detergentu, pranie pachnie bardzo przyjemnie po praniu",False
+988,€ za WL bardzo tanie. Szybka i łatwa dostawa do sklepu. Zapach i moc czyszczenia bardzo dobre. Rozpuszcza się całkowicie!,False
+989,Uwielbiam ten produkt. Pachnie naprawdę świetnie. Lenor jest po prostu świetny.,False
+990,"[Ta recenzja została przesłana po otrzymaniu zachęty (kupon, rabat, bezpłatna próbka, loteria, konkurs z loterią itp.] Pranie staje się bielsze, a zapach jest bardzo przyjemny.",False
+991,"Pra czysto, pachnie świetnie! Nie używaj już płynu do płukania tkanin! Będzie kupowany wielokrotnie. Również z cena idealnie w porządku!",False
+992,"Niestety bardzo rozczarowany. Proszek do prania nie pachnie jak płyn do płukania tkanin, a szkoda.",False
+993,Fantastyczny zapach. Zawsze lubię kupować,False
+994,"Produkt spełnia moje oczekiwania w 100%, kupię go ponownie",False
+995,"Super kolorowy detergent! Myje czysto, ładnie pachnie i jest świetną alternatywą dla zastąpionej złotej orchidei",False
+996,"[Ta recenzja została przesłana po otrzymaniu zachęty (kupon, rabat, bezpłatna próbka, loteria, konkurs z loterią itp.] Jestem zachwycony, pachnie bardzo dobrze i trwa.",False
+997,"Kupione i używane tego samego dnia. Zwykła jakość, nie najtańsza, ale po prostu najlepsza.",False
+998,Ten produkt zaskakuje zapachem. Jest bardzo świeży i kwiatowy.,False
+999,Więc pranie jest czyste i naprawdę świeże. Dziękuję.....,False
