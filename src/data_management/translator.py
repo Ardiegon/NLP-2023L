@@ -7,14 +7,14 @@ from enum import Enum
 from tqdm import tqdm
 from os.path import join
 from typing import Callable
-from data.load_data import load_raw_data_from_path
+from data_management.load_data import load_raw_data_from_path
 from configs.paths import DATA_DIR, DATA_NLP2023
 from requests.exceptions import HTTPError, JSONDecodeError
 
 USE_PREACCELERATION = False
 HTTP_ERROR_PROOFING = True
-MAX_NUMBER_OF_RETRIES = 20
-TRANSLATOR = "alibaba"
+MAX_NUMBER_OF_RETRIES = 200
+TRANSLATOR = "bing"
 
 class TranslationType(Enum):
     PTG = 1
@@ -57,22 +57,22 @@ def translate_series(x:pd.Series, translation_type:TranslationType, use_http_err
                     print(f"{e}, sleeping for {time_to_sleep} seconds")
                     time.sleep(time_to_sleep)
                     time_to_sleep +=1
-                except JSONDecodeError:
+                except (JSONDecodeError, TypeError) as e:
+                    time.sleep(time_to_sleep/10)
                     time_to_sleep +=1
                 finally:
-                    if MAX_NUMBER_OF_RETRIES == time_to_sleep:
-                        print("Timeout")
-                        break
+                    if MAX_NUMBER_OF_RETRIES > time_to_sleep:
+                        print("Concider ctrl+c")
     return result
 
 def main():
     if USE_PREACCELERATION:
         ts.preaccelerate(timeout=5)
-    data = load_raw_data_from_path(DATA_NLP2023)[:150]
+    data = load_raw_data_from_path(DATA_NLP2023)[:1000]
     data.to_csv(join(DATA_DIR, "german_negative.csv"))
 
     data["comment"] = translate_series(data["comment"], TranslationType.GTP)
-    print(data)
+
     data.to_csv(join(DATA_DIR, "polish_negative.csv"))
 
 if __name__ == "__main__":

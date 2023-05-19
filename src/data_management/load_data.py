@@ -1,6 +1,8 @@
 import pandas as pd
+import numpy as np
 
-from configs.paths import DATA_DOUBLEQUALITY, DATA_NLP2023
+from os.path import join
+from configs.paths import DATA_DOUBLEQUALITY, DATA_NLP2023, DATA_DIR
 
 MAX_COMMENT_LEN = 300
 
@@ -36,8 +38,19 @@ def load_raw_data_from_path(path:str) -> pd.DataFrame:
     df = df.reset_index().drop(columns=["index"])
     return df
 
+def load_dataset(language:str):
+    df_positive = pd.read_csv(join(DATA_DIR, f"{language}_positive.csv"))
+    df_negative = pd.read_csv(join(DATA_DIR, f"{language}_negative.csv"))
+    df = pd.concat([df_positive, df_negative], ignore_index=True).drop(columns=["Unnamed: 0"])
+    return df
+
+def load_dataset_encoded(language:str):
+    df = pd.read_csv(join(DATA_DIR, f"{language}_encoded.csv")).drop(columns=["Unnamed: 0"])
+    df["encoded"] = df["encoded"].apply(eval).apply(np.array)
+    return df
+
 if __name__ == "__main__":
-    df = load_raw_data_from_path(DATA_NLP2023)
-    pd.set_option('display.max_columns', None)  
-    print(df.shape)
-    print(repr(df["comment"][94]))
+    df = load_dataset("polish")
+    print(df[df["label"]==True].head())
+    print(df[df["label"]==False].head())
+

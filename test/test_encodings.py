@@ -1,27 +1,12 @@
 import numpy as np
 import pandas as pd
+from data_management.cleaning import encode, ModelNames
 
-from enum import Enum
-from sentence_transformers import SentenceTransformer
-
-from configs.paths import DATA_DOUBLEQUALITY, DATA_NLP2023
-
-class ModelNames(Enum):
-    POLISH = "Voicelab/sbert-base-cased-pl"
-    GERMAN = "T-Systems-onsite/cross-en-de-roberta-sentence-transformer"
-    MULTILINGUAL = "sentence-transformers/paraphrase-multilingual-mpnet-base-v2"
-
-def remove_stopwords():
-    pass
-
-def encode_dataframe(df: pd.DataFrame) -> pd.DataFrame:
-    pass
-
-def cosine(u:list, v:list) -> pd.DataFrame:
+def cosine_distance(u:list, v:list) -> pd.DataFrame:
     return np.dot(u, v) / (np.linalg.norm(u) * np.linalg.norm(v))
 
 def test_encoding():
-    test_sentences = [
+    test_sentences = pd.Series([
         "Krowa lubi jeść trawę",
         "Rolnik kosi trawę przy krowach",
         "Praca czyni człowiekiem sukcesu",
@@ -33,15 +18,15 @@ def test_encoding():
         "Czas leczy wszystkie rany, bądź cierpliwy.",
         "Sukces to nie kwestia szczęścia, lecz ciężkiej pracy.",
         "Kot leży na łące"
-    ]
+    ])
 
-    model = SentenceTransformer(ModelNames.POLISH.value)
-    embeddings = model.encode(test_sentences)
+    embeddings = encode(test_sentences, ModelNames.POLISH)
+    print(type(embeddings))
 
     for val, e in enumerate(embeddings[1:]):
-        sim = cosine(embeddings[0], e)
+        sim = cosine_distance(embeddings[0], e)
         print("Sentence = ", test_sentences[val+1], "; similarity = ", sim)
+
 
 if __name__ == "__main__":
     test_encoding()
-
