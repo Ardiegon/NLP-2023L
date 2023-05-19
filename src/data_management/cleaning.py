@@ -1,6 +1,6 @@
 import numpy as np
-import nltk
 import pandas as pd
+import logging
 
 from enum import Enum
 from os.path import join
@@ -8,10 +8,11 @@ from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
 from sentence_transformers import SentenceTransformer
 
-from typing import List
-
-from configs.paths import DATA_DOUBLEQUALITY, DATA_NLP2023, DATA_DIR, POLISH_STOPWORDS
+from configs.paths import DATA_DIR, POLISH_STOPWORDS
 from data_management.load_data import load_dataset 
+
+logging.disable(logging.INFO) 
+logging.disable(logging.WARNING)
 
 class ModelNames(Enum):
     POLISH = "Voicelab/sbert-base-cased-pl"
