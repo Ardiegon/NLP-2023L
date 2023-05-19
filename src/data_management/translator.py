@@ -7,7 +7,7 @@ from enum import Enum
 from tqdm import tqdm
 from os.path import join
 from typing import Callable
-from data.load_data import load_raw_data_from_path
+from data_management.load_data import load_raw_data_from_path
 from configs.paths import DATA_DIR, DATA_NLP2023
 from requests.exceptions import HTTPError, JSONDecodeError
 
