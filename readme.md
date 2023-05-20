@@ -5,8 +5,16 @@ Double quality assesment using anomaly detection.
 ```bash
 conda env create -n nlp-env -f env.yml
 conda activate nlp-env
+conda develop .
 conda develop src
 ```
+
+or 
+
+```bash
+pip install -r requirements.txt
+```
+and then set your PYTHONPATH to "." and "./src" in some way
 
 # Using
 ```bash
@@ -17,7 +25,14 @@ Current Languages:
 - german
 
 Current Models:
-- OneClassSVM (https://scikit-learn.org/stable/modules/generated/sklearn.svm.OneClassSVM.html)
+- bayes: Complement Naive Bayes (https://scikit-learn.org/stable/modules/generated/sklearn.naive_bayes.ComplementNB.html#sklearn.naive_bayes.ComplementNB)
+- svm: OneClassSVM (https://scikit-learn.org/stable/modules/generated/sklearn.svm.OneClassSVM.html)
+
+exrun:
+```bash
+python .\classify.py "Proszek lepszy niż ten w polsce" "Używamy tego detergentu od wielu lat i jesteśmy bardzo zadowoleni."
+```
+Should return positive, and negative
 
 # Literature
 Training German Doc2Vec - https://devmount.github.io/GermanWordEmbeddings/  

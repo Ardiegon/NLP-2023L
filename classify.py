@@ -2,14 +2,16 @@ import argparse
 import numpy as np
 import pandas as pd
 
-from configs.classify_config import opts_german_svm, opts_polish_svm
+from configs.classify_config import *
 from data_management.cleaning import encode, remove_stopwords, filter_weird_characters
-from data_management.model_utils import load_model
+from classification.model_utils import load_model
 
 def get_options(language:str, model:str)->dict:
     map_lang_to_opts = {
         "polish"+"svm": opts_polish_svm,
-        "german"+"svm": opts_german_svm
+        "german"+"svm": opts_german_svm,
+        "polish"+"bayes": opts_polish_bayes,
+        "german"+"bayes": opts_german_bayes
     }
     try:
         return map_lang_to_opts[language+model]
@@ -20,7 +22,7 @@ def get_options(language:str, model:str)->dict:
 def parse_args():
     parser = argparse.ArgumentParser()
     parser.add_argument("comments", nargs="+", type=str, help="Comments that you want to check for double quality.")
-    parser.add_argument("--model", default = "svm", type=str, help="Model type.")
+    parser.add_argument("--model", default = "bayes", type=str, help="Model type.")
     parser.add_argument("--language", default = "polish", type=str, help="Language in which comments are written.")
     return parser.parse_args()
 
