@@ -1,4 +1,4 @@
-from configs.paths import SVM_POLISH, SVM_GERMAN
+from configs.paths import *
 
 opts_polish_svm = {
     "language": "polish",
@@ -8,4 +8,14 @@ opts_polish_svm = {
 opts_german_svm = {
     "language": "german",
     "model": SVM_GERMAN
+}
+
+opts_polish_bayes = {
+    "language": "polish",
+    "model": BAYES_POLISH
+}
+
+opts_german_bayes = {
+    "language": "german",
+    "model": BAYES_GERMAN
 }
