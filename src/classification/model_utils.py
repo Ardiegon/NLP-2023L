@@ -60,3 +60,8 @@ def plot_results(ground_truth, predicted, title = "Confusion Matrix", save_path 
     else:
         plt.show()
 
+def get_test_sizes(aug):
+    if aug:
+        return 0.05/5*2, 0.2/5*2
+    else:
+        return 0.02, 0.31

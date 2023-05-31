@@ -2,7 +2,7 @@ import pandas as pd
 import numpy as np
 
 from os.path import join
-from configs.paths import DATA_DOUBLEQUALITY, DATA_NLP2023, DATA_DIR
+from configs.paths import DATA_DOUBLEQUALITY, DATA_NLP2023, DATA_DIR, NEWER_GERMAN, NEWER_POLISH
 
 MAX_COMMENT_LEN = 300
 
@@ -38,14 +38,28 @@ def load_raw_data_from_path(path:str) -> pd.DataFrame:
     df = df.reset_index().drop(columns=["index"])
     return df
 
+def add_newer_data(language:str):
+    map_lang_to_path = {
+        "polish": NEWER_POLISH,
+        "german": NEWER_GERMAN,
+    }
+    path = map_lang_to_path[language]
+    df = pd.read_csv(path, sep=";")
+    df = df.rename(columns={"content":"comment","doubleQuality":"label"})
+    df["comment"] = df["comment"].str.replace("\r", "")
+    df["comment"] = df["comment"].str.replace("\n", "")
+    return df
+
 def load_dataset(language:str):
     df_positive = pd.read_csv(join(DATA_DIR, f"{language}_positive.csv"))
     df_negative = pd.read_csv(join(DATA_DIR, f"{language}_negative.csv"))
+    df_positive = pd.concat([df_positive, add_newer_data(language)], ignore_index=True).drop(columns=["Unnamed: 0"]) 
     df = pd.concat([df_positive, df_negative], ignore_index=True).drop(columns=["Unnamed: 0"])
     return df
 
-def load_dataset_encoded(language:str):
-    df = pd.read_csv(join(DATA_DIR, f"{language}_encoded.csv")).drop(columns=["Unnamed: 0"])
+def load_dataset_encoded(language:str, augumented=True):
+    data_name = f"{language}_encoded.csv" if not augumented else f"{language}_encoded_augm.csv"
+    df = pd.read_csv(join(DATA_DIR, data_name)).drop(columns=["Unnamed: 0"])
     df["encoded"] = df["encoded"].apply(eval).apply(np.array)
     return df
 
