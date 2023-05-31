@@ -30,9 +30,9 @@ Current Models:
 
 exrun:
 ```bash
-python .\classify.py "Proszek lepszy niż ten w polsce" "Proszek bardzo dobry" "Proszek bardzo zły" "Używamy zelazka z niemiec, jest lepsze" "Używamy naszego żelazka, jest super" "Ręczniki z zagranicy zawsze były lepsze niż nasze" "Ręczniki z zasady są miłe i puszyste"
+python classify.py "Proszek lepszy niż ten w polsce" "Proszek bardzo dobry" "Proszek bardzo zły" "Używamy zelazka z niemiec, jest lepsze" "Używamy naszego żelazka, jest super" "Ręczniki z zagranicy zawsze były lepsze niż nasze" "Ręczniki z zasady są miłe i puszyste"
 
-python .\classify.py "Das Pulver ist besser als das in Polen" "Das Pulver ist sehr gut" "Das Pulver ist sehr schlecht" "Wir nutzen das deutsche Bügeleisen, das ist besser" "Wir nutzen unser Bügeleisen, das ist super" "Handtücher aus dem Polshe schon immer. war besser als unseres" "Handtücher sind im Allgemeinen schön und flauschig" --language german
+python classify.py "Das Pulver ist besser als das in Polen" "Das Pulver ist sehr gut" "Das Pulver ist sehr schlecht" "Wir nutzen das deutsche Bügeleisen, das ist besser" "Wir nutzen unser Bügeleisen, das ist super" "Handtücher aus dem Polshe schon immer. war besser als unseres" "Handtücher sind im Allgemeinen schön und flauschig" --language german
 ```
 Should return positive, and negative
 
