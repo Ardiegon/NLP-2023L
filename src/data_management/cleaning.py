@@ -46,19 +46,19 @@ def remove_stopwords(sentences:"pd.Series[str]", language:str)->"pd.Series[str]"
     return sentences.apply(_remove_stopwords)
 
 def filter_weird_characters(sentences:"pd.Series[str]")->"pd.Series[str]":
-    pattern = r'[^a-zA-Z0-9.,\sąćęłńóśźżĄĆĘŁŃÓŚŹŻ]'
+    pattern = r'[^a-zA-Z0-9.,\sąćęłńóśźżĄĆĘŁŃÓŚŹŻäöüßÄÖÜ]'
     return sentences.str.replace(pattern, '', regex=True)
 
 
 def main():
     # nltk.download('stopwords')
     # nltk.download('punkt')
-    lang = "polish"
+    lang = "german"
     df = load_dataset(lang)
     df["comment"] = filter_weird_characters(df["comment"])
     df["comment"] = remove_stopwords(df["comment"], lang)
     df["encoded"] = encode(df["comment"], lang)
-    df.to_csv(join(DATA_DIR, f"{lang}_encoded.csv"))
+    df.to_csv(join(DATA_DIR, f"{lang}_encoded_augm.csv"))
 
 if __name__ == "__main__":
     main()

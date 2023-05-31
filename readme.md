@@ -18,7 +18,7 @@ and then set your PYTHONPATH to "." and "./src" in some way
 
 # Using
 ```bash
-python classify.py "comment 1" "comment 2" ... "comment n" --language polish --model svm
+python classify.py "comment 1" "comment 2" ... "comment n" --language polish --model bayes
 ```  
 Current Languages:
 - polish
@@ -30,13 +30,13 @@ Current Models:
 
 exrun:
 ```bash
-python .\classify.py "Proszek lepszy niż ten w polsce" "Używamy tego detergentu od wielu lat i jesteśmy bardzo zadowoleni."
+python .\classify.py "Proszek lepszy niż ten w polsce" "Proszek bardzo dobry" "Proszek bardzo zły" "Używamy zelazka z niemiec, jest lepsze" "Używamy naszego żelazka, jest super" "Ręczniki z zagranicy zawsze były lepsze niż nasze" "Ręczniki z zasady są miłe i puszyste"
+
+python .\classify.py "Das Pulver ist besser als das in Polen" "Das Pulver ist sehr gut" "Das Pulver ist sehr schlecht" "Wir nutzen das deutsche Bügeleisen, das ist besser" "Wir nutzen unser Bügeleisen, das ist super" "Handtücher aus dem Polshe schon immer. war besser als unseres" "Handtücher sind im Allgemeinen schön und flauschig" --language german
 ```
 Should return positive, and negative
 
 # Literature
-Training German Doc2Vec - https://devmount.github.io/GermanWordEmbeddings/  
-
 German genral use BERT - https://huggingface.co/bert-base-german-cased  
 
 Polish general use BERT - https://huggingface.co/dkleczek/bert-base-polish-cased-v1  

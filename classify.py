@@ -43,7 +43,7 @@ def main(args):
     predictions = model.predict(input_encodings)
 
     for i in range(how_many_comments):
-        print(f"\"{args.comments[i]}\" predicted as: {'positve' if predictions[i]==-1 else 'negative'}")
+        print(f"\"{args.comments[i]}\" predicted as: {'positive' if predictions[i]==-1 else 'negative'}")
 
 if __name__ == "__main__":
     args = parse_args()
