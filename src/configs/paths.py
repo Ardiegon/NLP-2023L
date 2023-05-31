@@ -12,4 +12,4 @@ BAYES_POLISH = join(MODELS_DIR, "bayes_polish.pickle")
 BAYES_GERMAN = join(MODELS_DIR, "bayes_german.pickle")
 
 NEWER_POLISH = join(DATA_DIR, "NLP_doubleq_PL.csv")
-NEWER_GERMAN = join(DATA_DIR, "NLP_doubleq_PL.csv")
+NEWER_GERMAN = join(DATA_DIR, "NLP_doubleq_DE.csv")
