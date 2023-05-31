@@ -46,7 +46,7 @@ def remove_stopwords(sentences:"pd.Series[str]", language:str)->"pd.Series[str]"
     return sentences.apply(_remove_stopwords)
 
 def filter_weird_characters(sentences:"pd.Series[str]")->"pd.Series[str]":
-    pattern = r'[^a-zA-Z0-9.,\sąćęłńóśźżĄĆĘŁŃÓŚŹŻäöüßÄÖÜ]'
+    pattern = r'[^a-zA-Z0-9.,\!\?\sąćęłńóśźżĄĆĘŁŃÓŚŹŻäöüßÄÖÜ]'
     return sentences.str.replace(pattern, '', regex=True)
 
 
