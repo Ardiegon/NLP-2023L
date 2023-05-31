@@ -9,10 +9,11 @@ from data_management.load_data import load_dataset_encoded
 from sklearn.model_selection import train_test_split
 
 from configs.paths import SVM_GERMAN, SVM_POLISH
+from configs.general import LANGUAGE
 
 SEED = 12345
 USE_AUGMENTED_DATA = True
-LANGUAGE = "german"
+
 
 def get_train_test_dataset(language:str)->tuple:
     df = load_dataset_encoded(language, augumented=USE_AUGMENTED_DATA)

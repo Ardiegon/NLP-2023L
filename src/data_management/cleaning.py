@@ -10,6 +10,7 @@ from nltk.tokenize import word_tokenize
 from sentence_transformers import SentenceTransformer
 
 from configs.paths import DATA_DIR, POLISH_STOPWORDS
+from configs.general import LANGUAGE
 from data_management.load_data import load_dataset 
 
 logging.disable(logging.INFO) 
@@ -54,7 +55,7 @@ def filter_weird_characters(sentences:"pd.Series[str]")->"pd.Series[str]":
 
 
 def main():
-    lang = "german"
+    lang = LANGUAGE
     df = load_dataset(lang)
     df["comment"] = filter_weird_characters(df["comment"])
     df["comment"] = remove_stopwords(df["comment"], lang)

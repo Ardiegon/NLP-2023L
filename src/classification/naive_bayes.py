@@ -9,11 +9,12 @@ from data_management.load_data import load_dataset_encoded
 from sklearn.model_selection import train_test_split
 
 from configs.paths import BAYES_GERMAN, BAYES_POLISH
+from configs.general import LANGUAGE
 
 SEED = 999
 BAYES_NON_NEGATIVE_CONST = 100
 USE_AUGMENTED_DATA = True
-LANGUAGE = "polish"
+
 
 def get_train_test_dataset(language:str)->tuple:
     df = load_dataset_encoded(language, augumented=USE_AUGMENTED_DATA)
