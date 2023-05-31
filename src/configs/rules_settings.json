@@ -1,0 +1,54 @@
+{
+    "langs": [
+        "polski",
+        "niemiecki"
+    ],
+    "translate_lang": {
+        "polski": "polish",
+        "niemiecki": "german"
+    },
+    "rules": {
+        "polski": [
+            "niemiec",
+            "niemc",
+            "pols",
+            "zachod",
+            "zachód",
+            "kraj",
+            "czesk",
+            "austr",
+            "francusk",
+            "izraelsk",
+            "rosja",
+            "wschod",
+            "wschód",
+            "austr",
+            "holand",
+            "usa",
+            "zssr",
+            "czech",
+            "stany",
+            "ameryk"
+        ],
+        "niemiecki": [
+            "deutschland",
+            "polnisch",
+            "polsh",
+            "west",
+            "inl",
+            "tschechi",
+            "österreich",
+            "franz",
+            "israel",
+            "russ",
+            "ost",
+            "österreich",
+            "niederlande",
+            "usa",
+            "udssr",
+            "amerik",
+            "europ",
+            "land"
+        ]
+    }
+}
