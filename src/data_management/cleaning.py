@@ -1,6 +1,7 @@
 import numpy as np
 import pandas as pd
 import logging
+import nltk
 
 from enum import Enum
 from os.path import join
@@ -38,6 +39,8 @@ def get_stopwords(language:str):
         return set(stopwords.words(language))
     
 def remove_stopwords(sentences:"pd.Series[str]", language:str)->"pd.Series[str]":
+    nltk.download('stopwords')
+    nltk.download('punkt')
     stop_words = get_stopwords(language)
     def _remove_stopwords(text:str):
         tokens = word_tokenize(text)
@@ -51,8 +54,6 @@ def filter_weird_characters(sentences:"pd.Series[str]")->"pd.Series[str]":
 
 
 def main():
-    # nltk.download('stopwords')
-    # nltk.download('punkt')
     lang = "german"
     df = load_dataset(lang)
     df["comment"] = filter_weird_characters(df["comment"])
