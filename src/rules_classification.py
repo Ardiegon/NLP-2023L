@@ -9,13 +9,13 @@ from data_management.load_data import load_dataset
 def predict(df, rules, column_name):
     df['prediction'] = False
     for rule in rules:
-        df.loc[:, 'prediction'] = [True if pred == True else True if rule in com else False for com,
+        df.loc[:, 'prediction'] = [True if pred == True else True if rule in com.lower() else False for com,
                                    pred in zip(df[column_name], df['prediction'])]
     return df
 
 
 if len(sys.argv) < 3:
-    print("Too few arguments! You need to provide language and path to rules and, optionally, sentences to clasificate")
+    print("Too few arguments! You need to provide language and path to rules and, optionally, sentences to classify")
     sys.exit(1)
 
 workdir = os.getcwd()
